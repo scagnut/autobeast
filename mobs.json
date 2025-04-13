@@ -1,4 +1,14 @@
 {
+    "Name": {
+        "Level": "Lvl",
+        "Type": "Type",
+        "Divinity": "Divinity",
+        "Capturable": "Pet",
+        "Location": "Area",
+        "Loot Drops": [
+            "Equipment Drops"
+        ]
+    },
     "Abyssal Olm": {
         "Level": "24",
         "Type": "Aquatic",
@@ -32,6 +42,16 @@
         "Capturable": "No",
         "Location": "Ruined Watchtower",
         "Loot Drops": null
+    },
+    "Amelia Sasoo (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silk Gloves"
+        ]
     },
     "Anaconda": {
         "Level": "23",
@@ -297,6 +317,16 @@
             "Bone Bow"
         ]
     },
+    "Buccaneer": {
+        "Level": "21",
+        "Type": "Humanoid",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
     "Bull Shark": {
         "Level": "22",
         "Type": "Aquatic",
@@ -371,6 +401,14 @@
             "Foresters Axe"
         ]
     },
+    "Captain Butcher (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
     "Caretaker of the First Spawn (OAD)": {
         "Level": "25",
         "Type": "Reptile",
@@ -431,7 +469,7 @@
         "Location": "Plains Road",
         "Loot Drops": null
     },
-    "Corrupt Guard": {
+    "Corrupted Guard": {
         "Level": "18",
         "Type": "Humanoid",
         "Divinity": "Neutral",
@@ -561,6 +599,16 @@
         "Location": "Ruined Watchtower",
         "Loot Drops": [
             "Bladed Staff"
+        ]
+    },
+    "Deckhand": {
+        "Level": "18",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
         ]
     },
     "Defiled Essence": {
@@ -709,6 +757,14 @@
             "Eagle Talons"
         ]
     },
+    "Elna Crowley (MB)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
     "Enraged Bovine": {
         "Level": "23",
         "Type": "Animal",
@@ -716,6 +772,16 @@
         "Capturable": "No",
         "Location": "Plains Road",
         "Loot Drops": null
+    },
+    "Enraged Phantom": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
     },
     "Equilax": {
         "Level": "6",
@@ -745,6 +811,16 @@
             "Gilded Plate"
         ]
     },
+    "Farmaris Morcan (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Bone Rondel"
+        ]
+    },
     "Forest Bandit": {
         "Level": "5",
         "Type": "Humanoid",
@@ -771,6 +847,16 @@
         "Location": "Canopia Forest",
         "Loot Drops": [
             "Forest Cloak"
+        ]
+    },
+    "Foul (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
         ]
     },
     "Frenzied Treant": {
@@ -809,6 +895,16 @@
         "Location": "Wasteland",
         "Loot Drops": null
     },
+    "Ghast": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
     "Ghost": {
         "Level": "24",
         "Type": "Undead",
@@ -825,6 +921,26 @@
         "Location": "Forgotten Cemetary",
         "Loot Drops": null
     },
+    "Ghostly Helmswoman": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Giant Alligator": {
+        "Level": "21",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Uncooked Fish, Magical Water, Healing Water"
+        ]
+    },
     "Giant Ant": {
         "Level": "15",
         "Type": "Insect",
@@ -832,6 +948,36 @@
         "Capturable": "Yes",
         "Location": "Bityrn - Turenyara Border",
         "Loot Drops": null
+    },
+    "Giant Octopus": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Tentacles, Healing Water, Magical Water"
+        ]
+    },
+    "Giant Squid": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Tentacles, Healing Water, Magical Water"
+        ]
+    },
+    "Giant Whale": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Healing Water"
+        ]
     },
     "Gold Hoarder (MB)": {
         "Level": "",
@@ -851,6 +997,16 @@
         "Location": "Northern Rock Plateau",
         "Loot Drops": null
     },
+    "Gravedigger (MB)": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Neutral",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Island Silk Gloves, Island Silk Boots"
+        ]
+    },
     "Great Egret": {
         "Level": "21",
         "Type": "Animal",
@@ -858,6 +1014,16 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null
+    },
+    "Great White Shark": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Healing Water"
+        ]
     },
     "Grey Hawk": {
         "Level": "22",
@@ -874,6 +1040,24 @@
         "Capturable": "Yes",
         "Location": "Wasteland",
         "Loot Drops": null
+    },
+    "Guard Dog": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Gunner": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
     },
     "Haltija": {
         "Level": "23",
@@ -941,6 +1125,16 @@
         "Location": "Ancient Temple",
         "Loot Drops": null
     },
+    "Ice Princess (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
+    },
     "Imperial Healer": {
         "Level": "22",
         "Type": "Demon",
@@ -991,6 +1185,14 @@
             "Kings Stinger"
         ]
     },
+    "Leviathan (MB)": {
+        "Level": "25",
+        "Type": " ???",
+        "Divinity": " ???",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
     "Living Sap": {
         "Level": "14",
         "Type": "Elemental",
@@ -1025,6 +1227,14 @@
             "Ivory Nunchaku"
         ]
     },
+    "Lykai Allard (MB)": {
+        "Level": "25",
+        "Type": "Greenskin",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
     "Madame Clucks-a-lot (MB)": {
         "Level": "25",
         "Type": "Animal",
@@ -1032,6 +1242,16 @@
         "Capturable": "No",
         "Location": "Alderran Plains",
         "Loot Drops": null
+    },
+    "Maiden (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
     },
     "Mana Demon": {
         "Level": "24",
@@ -1059,6 +1279,16 @@
         "Location": "Refinery",
         "Loot Drops": null
     },
+    "Manta Ray": {
+        "Level": "20",
+        "Type": "Aquatic",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Broken Stinger, Magical Water, Healing Water"
+        ]
+    },
     "Mapinguari (MB)": {
         "Level": "25",
         "Type": "Beast",
@@ -1085,6 +1315,16 @@
             "Bearskin Cloak"
         ]
     },
+    "Mariner": {
+        "Level": "21",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
     "Meadow Fox": {
         "Level": "7",
         "Type": "Animal",
@@ -1101,6 +1341,16 @@
         "Location": "Kageti Grove",
         "Loot Drops": [
             "Shinobi Shozoku"
+        ]
+    },
+    "Mermaid": {
+        "Level": "24",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Sea Shells"
         ]
     },
     "Misty Wolf": {
@@ -1185,6 +1435,16 @@
         "Location": "Alderran Plains",
         "Loot Drops": null
     },
+    "Mysterious Ocean Creature": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Uncooked Fish, Magical Water, Healing Water"
+        ]
+    },
     "Nezkar Varsee (MB)": {
         "Level": "7",
         "Type": "Humanoid",
@@ -1193,6 +1453,16 @@
         "Location": "River Road",
         "Loot Drops": [
             "Wicked Staff"
+        ]
+    },
+    "Noxious Pirate": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Spindle, Mast Fragment"
         ]
     },
     "Noxious Spectre": {
@@ -1291,6 +1561,24 @@
             "Mining Pick"
         ]
     },
+    "Phantom of Captain Butcher (B)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Pillager": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
     "Piranha": {
         "Level": "24",
         "Type": "Aquatic",
@@ -1298,6 +1586,26 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null
+    },
+    "Pirate": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon"
+        ]
+    },
+    "Pirate Ship": {
+        "Level": "25",
+        "Type": "Generic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silver Coin"
+        ]
     },
     "Pit Viper": {
         "Level": "21",
@@ -1338,6 +1646,26 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null
+    },
+    "Plunderer": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Poltergeist": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
     },
     "Puca": {
         "Level": "24",
@@ -1639,6 +1967,26 @@
         "Location": "Ebonmurk",
         "Loot Drops": null
     },
+    "Sailor": {
+        "Level": "19",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Sanguine (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
+    },
     "Savage Crocodile": {
         "Level": "24",
         "Type": "Reptile",
@@ -1653,6 +2001,34 @@
         "Divinity": "Ice",
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Sea Serpent": {
+        "Level": "24",
+        "Type": "Reptile",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Serpent Remains, Healing Water"
+        ]
+    },
+    "Seadog": {
+        "Level": "20",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox,"
+        ]
+    },
+    "Sentient Barnacle (MB)": {
+        "Level": "25",
+        "Type": "Beast",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
         "Loot Drops": null
     },
     "Shade": {
@@ -1679,6 +2055,14 @@
         "Divinity": "Night",
         "Capturable": "No",
         "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Siren (MB)": {
+        "Level": "25",
+        "Type": "Aquatic",
+        "Divinity": "Neutral",
+        "Capturable": "No",
+        "Location": "Kraken",
         "Loot Drops": null
     },
     "Skeletal Beast": {
@@ -1741,6 +2125,16 @@
         "Location": "Ebonmurk",
         "Loot Drops": null
     },
+    "Specter": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
     "Spectral Lion (MB)": {
         "Level": "25",
         "Type": "Animal",
@@ -1760,15 +2154,12 @@
         "Loot Drops": null
     },
     "Spider Crab": {
-        "Level": 23,
+        "Level": "23",
         "Type": "Aquatic",
         "Divinity": "Fire",
-        "Capturable": true,
+        "Capturable": "Yes",
         "Location": "Ebonmurk",
-        "Loot Drops": [],
-        "Quest": "001",
-        "Gold": 500,
-        "HP": "12/12"
+        "Loot Drops": null
     },
     "Spotted Jaguar": {
         "Level": "23",
@@ -1785,6 +2176,16 @@
         "Capturable": "No",
         "Location": "Plains Road",
         "Loot Drops": null
+    },
+    "Squid": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Healing Water"
+        ]
     },
     "Static Elemental (B)": {
         "Level": "",
@@ -1812,6 +2213,16 @@
         "Location": "Ebonmurk",
         "Loot Drops": null
     },
+    "Swashbuckler": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Golden Lockbox"
+        ]
+    },
     "Sweltry Elemental (B)": {
         "Level": "",
         "Type": "Elemental",
@@ -1820,6 +2231,16 @@
         "Location": "Dreadlands",
         "Loot Drops": [
             "Onyx Plate"
+        ]
+    },
+    "Sword Fish": {
+        "Level": "20",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Uncooked Fish, Magical Water, Healing Water"
         ]
     },
     "Tainted Hawk": {
@@ -1920,6 +2341,26 @@
         "Location": "Alderran Plains",
         "Loot Drops": null
     },
+    "Tyrant": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Uberto Hargrove (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silk Mantle"
+        ]
+    },
     "Undead Commander (MB)": {
         "Level": null,
         "Type": "Undead",
@@ -1936,6 +2377,16 @@
         "Location": "Forgotten Cemetary",
         "Loot Drops": [
             "Starlight Spade, Starlight Cloak"
+        ]
+    },
+    "Ururk Kuredall (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silk Hauberk"
         ]
     },
     "Vale Walker": {
@@ -2129,16 +2580,5 @@
         "Capturable": "Yes",
         "Location": "Grotesque Garden",
         "Loot Drops": null
-    },
-    "Crab": {
-        "Level": 1,
-        "Type": "Aquatic",
-        "Divinity": "Neutral",
-        "Capturable": false,
-        "Location": "Seamoor Area",
-        "Loot Drops": ["Crab Shell", "Briny Water"],
-        "Quest": "Lost Fisherman's Bounty",
-        "Gold": 50,
-        "HP": "8/8"
     }
 }
