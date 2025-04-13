@@ -2131,11 +2131,14 @@
         "Loot Drops": null
     },
     "Crab": {
-        "Level": "1",
+        "Level": 1,
         "Type": "Aquatic",
         "Divinity": "Neutral",
-        "Capturable": "No",
+        "Capturable": false,
         "Location": "Seamoor Area",
-        "Loot Drops": null
+        "Loot Drops": ["Crab Shell", "Briny Water"],
+        "Quest": "Lost Fisherman's Bounty",
+        "Gold": 50,
+        "HP": "8/8"
     }
 }
