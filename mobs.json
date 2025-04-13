@@ -9,66 +9,6 @@
             "Equipment Drops"
         ]
     },
-    "Abyssal Olm": {
-        "Level": "24",
-        "Type": "Aquatic",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Abyssal Stingray": {
-        "Level": "23",
-        "Type": "Aquatic",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Adept Cultist": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Wasteland/Wiken",
-        "Loot Drops": [
-            "Tainted Hat, Tainted Robes"
-        ]
-    },
-    "Aether Knight": {
-        "Level": "22",
-        "Type": "Demon",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Ruined Watchtower",
-        "Loot Drops": null
-    },
-    "Amelia Sasoo (B)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Silk Gloves"
-        ]
-    },
-    "Anaconda": {
-        "Level": "23",
-        "Type": "Reptile",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Ancient Egg (OAD)": {
-        "Level": "25",
-        "Type": "Reptile",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
     "Ancient Minotaur (OAD)": {
         "Level": "",
         "Type": "",
@@ -85,30 +25,6 @@
         "Divinity": null,
         "Capturable": "?",
         "Location": "Ancient Temple",
-        "Loot Drops": null
-    },
-    "Anglerfish": {
-        "Level": "22",
-        "Type": "Aquatic",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Angry Poltergeist": {
-        "Level": "13",
-        "Type": "Undead",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
-    "Arapaima": {
-        "Level": "21",
-        "Type": "Aquatic",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
         "Loot Drops": null
     },
     "Arcane Director (OAD?)": {
@@ -129,16 +45,6 @@
         "Location": "Refinery",
         "Loot Drops": [
             "Luminous Helmet"
-        ]
-    },
-    "Arcane Slave (Blue)": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": [
-            "Arcane Sword"
         ]
     },
     "Arcane Slave (Green)": {
@@ -171,22 +77,6 @@
             "Onyx Plate"
         ]
     },
-    "Armored Shell Snapper": {
-        "Level": "22",
-        "Type": "Reptile",
-        "Divinity": "Water",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Awakened Corpse": {
-        "Level": "12",
-        "Type": "Undead",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
     "Bandit Leader (MB)": {
         "Level": "",
         "Type": "",
@@ -197,240 +87,12 @@
             "Gems"
         ]
     },
-    "Bandit Scout": {
-        "Level": "17",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Wasteland/Linwood",
-        "Loot Drops": [
-            "Bandit Blade"
-        ]
-    },
-    "Barbed-Tooth Leech": {
-        "Level": "21",
-        "Type": "Insect",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Bear": {
-        "Level": "17",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Turenyara - North",
-        "Loot Drops": null
-    },
-    "Beavox": {
-        "Level": "8",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Grotesque Garden",
-        "Loot Drops": null
-    },
     "Beetle": {
         "Level": " ?",
         "Type": "Animal",
         "Divinity": " ?",
         "Capturable": " ?",
         "Location": "Grotesque Garden",
-        "Loot Drops": null
-    },
-    "Beggar": {
-        "Level": "15",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Black Badger": {
-        "Level": "17",
-        "Type": "Animal",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Kageti Grove",
-        "Loot Drops": [
-            "Badgers Hood"
-        ]
-    },
-    "Black Bear": {
-        "Level": "22",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Raiders Vale",
-        "Loot Drops": null
-    },
-    "Black Caiman": {
-        "Level": "4",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Journeymans Road",
-        "Loot Drops": [
-            "Crocodile Skin Vest Crocodile Skin"
-        ]
-    },
-    "Black Panther Cub": {
-        "Level": "12",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Bitryn",
-        "Loot Drops": null
-    },
-    "Blackspawn Guard": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Abandoned Camp",
-        "Loot Drops": null
-    },
-    "Bleackweave Arachnid": {
-        "Level": "6",
-        "Type": "Insect",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Canopia Forest",
-        "Loot Drops": null
-    },
-    "Blood Imp": {
-        "Level": "20",
-        "Type": "Demon",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Wasteland/Wiken Graveyard",
-        "Loot Drops": null
-    },
-    "Bone Archer": {
-        "Level": "22",
-        "Type": "Undead",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Wiken Graveyard",
-        "Loot Drops": [
-            "Bone Bow"
-        ]
-    },
-    "Buccaneer": {
-        "Level": "21",
-        "Type": "Humanoid",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Bull Shark": {
-        "Level": "22",
-        "Type": "Aquatic",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Bullfrog": {
-        "Level": "5",
-        "Type": "Animal",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Journeymans Road",
-        "Loot Drops": [
-            "Frog Juice Frog Legs Prince's Letter"
-        ]
-    },
-    "Bunyip (MB)": {
-        "Level": "25",
-        "Type": "Beast",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Cadaver": {
-        "Level": "22",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Canopia Deforester": {
-        "Level": "9",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Foresters Axe"
-        ]
-    },
-    "Canopia Foreman": {
-        "Level": "12",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Foremans Hammer"
-        ]
-    },
-    "Canopia Logger": {
-        "Level": "8",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Foresters Axe"
-        ]
-    },
-    "Canopia Operator": {
-        "Level": "10",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Foresters Axe"
-        ]
-    },
-    "Captain Butcher (B)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Caretaker of the First Spawn (OAD)": {
-        "Level": "25",
-        "Type": "Reptile",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Carpenter Ant": {
-        "Level": "13",
-        "Type": "Insect",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Bitryn",
-        "Loot Drops": null
-    },
-    "Carrion Flies": {
-        "Level": "20",
-        "Type": "Insect",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
         "Loot Drops": null
     },
     "Cave Spider": {
@@ -451,128 +113,6 @@
             "Void Staff"
         ]
     },
-    "Copperhead": {
-        "Level": "8",
-        "Type": "Reptile",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Snake Skin Cap"
-        ]
-    },
-    "Corpse": {
-        "Level": "23",
-        "Type": "Undead",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Corrupt Guard": {
-        "Level": "18",
-        "Type": "Humanoid",
-        "Divinity": "Neutral",
-        "Capturable": "No",
-        "Location": "Linwood",
-        "Loot Drops": null
-    },
-    "Cougar": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Raiders Vale",
-        "Loot Drops": null
-    },
-    "Crazed Dweller": {
-        "Level": "17",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": [
-            "Tainted Hat, Tainted Robes"
-        ]
-    },
-    "Crazed Furnace Worker (MB)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": [
-            "Incinerating Knife"
-        ]
-    },
-    "Crazed Miner": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Dwarven Mines",
-        "Loot Drops": null
-    },
-    "Crimson Axolotl": {
-        "Level": "19",
-        "Type": "Aquatic",
-        "Divinity": "Water",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Cult Recruit": {
-        "Level": "15",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Cultist Recruiter (MB)": {
-        "Level": "19",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": [
-            "Tainted Hat, Tainted Robes"
-        ]
-    },
-    "Cursed Looter": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Abandoned Camp",
-        "Loot Drops": null
-    },
-    "Cusith": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Daeva": {
-        "Level": "19",
-        "Type": "Elemental",
-        "Divinity": "One of each",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": null
-    },
-    "Dark Druid (MB)": {
-        "Level": "12",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Grotesque Garden",
-        "Loot Drops": [
-            "Vulkrow Claws"
-        ]
-    },
     "Dark Elemental (B)": {
         "Level": "",
         "Type": "Elemental",
@@ -581,114 +121,6 @@
         "Location": "Dreadlands",
         "Loot Drops": [
             "Onyx Plate"
-        ]
-    },
-    "Dart Frog": {
-        "Level": "22",
-        "Type": "Reptile",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Death Knight": {
-        "Level": "22",
-        "Type": "Demon",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ruined Watchtower",
-        "Loot Drops": [
-            "Bladed Staff"
-        ]
-    },
-    "Deckhand": {
-        "Level": "18",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Defiled Essence": {
-        "Level": "20",
-        "Type": "Elemental",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": null
-    },
-    "Deformed Miner": {
-        "Level": "20",
-        "Type": "Greenskin",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": [
-            "Mining Pick, Lantern, Hunk of Dirty Rock, Rune Orb"
-        ]
-    },
-    "Deranged Remnant": {
-        "Level": "22",
-        "Type": "Demon",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Ruined Watchtower",
-        "Loot Drops": [
-            "Bladed Staff"
-        ]
-    },
-    "Descendant of the First Spawn (OAD)": {
-        "Level": "25",
-        "Type": "Reptile",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Disciple of the First Spawn (OAD)": {
-        "Level": "25",
-        "Type": "Reptile",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Diseased Capybara": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Dracokin": {
-        "Level": "25",
-        "Type": "Dragon",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Dreadlands",
-        "Loot Drops": [
-            "Dracokin Skins"
-        ]
-    },
-    "Dragonfly": {
-        "Level": "11",
-        "Type": "Insect",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Bitryn",
-        "Loot Drops": null
-    },
-    "Dread Rodent": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Refinery",
-        "Loot Drops": [
-            "Dread Maul"
         ]
     },
     "Dreadbeast": {
@@ -700,96 +132,6 @@
         "Loot Drops": [
             "Dreadfang"
         ]
-    },
-    "Drudge": {
-        "Level": "20",
-        "Type": "Undead",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": null
-    },
-    "Dusk Rat": {
-        "Level": "14",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Kageti Grove",
-        "Loot Drops": null
-    },
-    "Dwarven Berserker": {
-        "Level": "23",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Dwarven Mines",
-        "Loot Drops": [
-            "Mithril Double Axe"
-        ]
-    },
-    "Dwarven Brigand": {
-        "Level": "23",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Dwarven Mines",
-        "Loot Drops": [
-            "Mithril Dagger"
-        ]
-    },
-    "Dwarven Ninja": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Dwarven Mines",
-        "Loot Drops": [
-            "Mithril Staff"
-        ]
-    },
-    "Eagle": {
-        "Level": "22",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Mt. Athemos",
-        "Loot Drops": [
-            "Eagle Talons"
-        ]
-    },
-    "Elna Crowley (MB)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Enraged Bovine": {
-        "Level": "23",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Enraged Phantom": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Equilax": {
-        "Level": "6",
-        "Type": "Animal",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Grotesque Garden",
-        "Loot Drops": null
     },
     "Essence of the Deep (B)": {
         "Level": "",
@@ -811,62 +153,6 @@
             "Gilded Plate"
         ]
     },
-    "Farmaris Morcan (B)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Bone Rondel"
-        ]
-    },
-    "Forest Bandit": {
-        "Level": "5",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "no",
-        "Location": "Journeymans Road",
-        "Loot Drops": [
-            "Rusty Dagger Rations, Topaz Potion?"
-        ]
-    },
-    "Forest Troll": {
-        "Level": "12",
-        "Type": "Greenskin",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Grotesque Garden",
-        "Loot Drops": null
-    },
-    "Forest Witch (MB)": {
-        "Level": "12",
-        "Type": "Human",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Forest Cloak"
-        ]
-    },
-    "Foul (MB)": {
-        "Level": "25",
-        "Type": "Undead",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
-        ]
-    },
-    "Frenzied Treant": {
-        "Level": "9",
-        "Type": "Plant",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": null
-    },
     "Frigid Elemental (B)": {
         "Level": "",
         "Type": "Elemental",
@@ -875,88 +161,6 @@
         "Location": "Dreadlands",
         "Loot Drops": [
             "Onyx Plate"
-        ]
-    },
-    "Frog": {
-        "Level": "4",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Journeymans Road",
-        "Loot Drops": [
-            "Frog Juice Frog Legs Prince's Letter"
-        ]
-    },
-    "Fumbling Druid (B?)": {
-        "Level": "23",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Ghast": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Ghost": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Storm",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Ghostly Child": {
-        "Level": "10",
-        "Type": "Undead",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
-    "Ghostly Helmswoman": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Giant Alligator": {
-        "Level": "21",
-        "Type": "Aquatic",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Uncooked Fish, Magical Water, Healing Water"
-        ]
-    },
-    "Giant Ant": {
-        "Level": "15",
-        "Type": "Insect",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Bityrn - Turenyara Border",
-        "Loot Drops": null
-    },
-    "Giant Octopus": {
-        "Level": "22",
-        "Type": "Aquatic",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Tentacles, Healing Water, Magical Water"
         ]
     },
     "Giant Squid": {
@@ -969,16 +173,6 @@
             "Tentacles, Healing Water, Magical Water"
         ]
     },
-    "Giant Whale": {
-        "Level": "23",
-        "Type": "Aquatic",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Healing Water"
-        ]
-    },
     "Gold Hoarder (MB)": {
         "Level": "",
         "Type": "",
@@ -989,118 +183,6 @@
             "Golden Plate"
         ]
     },
-    "Grassland Lion": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Gravedigger (MB)": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Neutral",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Great Egret": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Water",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Great White Shark": {
-        "Level": "23",
-        "Type": "Aquatic",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Healing Water"
-        ]
-    },
-    "Grey Hawk": {
-        "Level": "22",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Grey Wolf": {
-        "Level": "22",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Guard Dog": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Gunner": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Haltija": {
-        "Level": "23",
-        "Type": "Plant",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Hare": {
-        "Level": "5",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Hawk": {
-        "Level": "8",
-        "Type": "Animal",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Canopia Forest",
-        "Loot Drops": null
-    },
-    "Head Foreman (MB)": {
-        "Level": "14",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": [
-            "Foremans Hammer"
-        ]
-    },
-    "Highway Man": {
-        "Level": "20",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Raiders Road",
-        "Loot Drops": null
-    },
     "Highwayman": {
         "Level": " ?",
         "Type": " ?",
@@ -1110,11 +192,11 @@
         "Loot Drops": null
     },
     "Hobo": {
-        "Level": " ?",
-        "Type": " ?",
-        "Divinity": " ?",
-        "Capturable": " ?",
-        "Location": "Wasteland",
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Raiders Road",
         "Loot Drops": null
     },
     "Hooded Servant": {
@@ -1125,96 +207,12 @@
         "Location": "Ancient Temple",
         "Loot Drops": null
     },
-    "Ice Princess (MB)": {
-        "Level": "25",
-        "Type": "Undead",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
-        ]
-    },
-    "Imperial Healer": {
-        "Level": "22",
-        "Type": "Demon",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Ruined Watchtower",
-        "Loot Drops": null
-    },
-    "Jackal": {
-        "Level": "20",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Mt. Athemos",
-        "Loot Drops": null
-    },
     "Josephine Speilent (MB)": {
         "Level": "",
         "Type": "",
         "Divinity": "",
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
-    "Kageti Crow": {
-        "Level": "13",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Kageti Grove",
-        "Loot Drops": null
-    },
-    "King Cobra": {
-        "Level": "23",
-        "Type": "Reptile",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "King Scorpion": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Dwarven Mines",
-        "Loot Drops": [
-            "Kings Stinger"
-        ]
-    },
-    "Leviathan (MB)": {
-        "Level": "25",
-        "Type": " ???",
-        "Divinity": " ???",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Living Sap": {
-        "Level": "14",
-        "Type": "Elemental",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Bityrn - Turenyara Border",
-        "Loot Drops": null
-    },
-    "Lobizon": {
-        "Level": "23",
-        "Type": "Beast",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Lumbering Bear": {
-        "Level": "10",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Bitryn",
         "Loot Drops": null
     },
     "Luna (MB)": {
@@ -1227,112 +225,6 @@
             "Ivory Nunchaku"
         ]
     },
-    "Lykai Allard (MB)": {
-        "Level": "25",
-        "Type": "Greenskin",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Madame Clucks-a-lot (MB)": {
-        "Level": "25",
-        "Type": "Animal",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Alderran Plains",
-        "Loot Drops": null
-    },
-    "Maiden (MB)": {
-        "Level": "25",
-        "Type": "Undead",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
-        ]
-    },
-    "Mana Demon": {
-        "Level": "24",
-        "Type": "Demon",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": null
-    },
-    "Mana Devil (OAD)": {
-        "Level": "25",
-        "Type": "Demon",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": [
-            "Devils Plate"
-        ]
-    },
-    "Mana Infused Psychotic": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": null
-    },
-    "Manta Ray": {
-        "Level": "20",
-        "Type": "Aquatic",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Broken Stinger, Magical Water, Healing Water"
-        ]
-    },
-    "Mapinguari (MB)": {
-        "Level": "25",
-        "Type": "Beast",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Marauder": {
-        "Level": "21",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Raider's Encampment",
-        "Loot Drops": null
-    },
-    "Marauding Bear (MB)": {
-        "Level": "13",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Bitryn",
-        "Loot Drops": [
-            "Bearskin Cloak"
-        ]
-    },
-    "Mariner": {
-        "Level": "21",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Meadow Fox": {
-        "Level": "7",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Canopia Forest",
-        "Loot Drops": null
-    },
     "Mendel (MB)": {
         "Level": "",
         "Type": "",
@@ -1341,42 +233,6 @@
         "Location": "Kageti Grove",
         "Loot Drops": [
             "Shinobi Shozoku"
-        ]
-    },
-    "Mermaid": {
-        "Level": "24",
-        "Type": "Aquatic",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Sea Shells"
-        ]
-    },
-    "Misty Wolf": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Alderran Plains",
-        "Loot Drops": null
-    },
-    "Moldy Skeleton": {
-        "Level": "12",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
-    "Monarch Ant": {
-        "Level": "16",
-        "Type": "Insect",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Turenyara Ant Hill",
-        "Loot Drops": [
-            "Onyx Stinger"
         ]
     },
     "Mort Wraith (MB)": {
@@ -1388,98 +244,6 @@
         "Loot Drops": [
             "Spectral Scythe, Bone Shield"
         ]
-    },
-    "Mosquito": {
-        "Level": "3",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Journeymans Road",
-        "Loot Drops": [
-            "Pointy Stinger"
-        ]
-    },
-    "Mountain Goat": {
-        "Level": "19",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Mt. Athemos",
-        "Loot Drops": [
-            "Bone Club"
-        ]
-    },
-    "Mountain Trapper": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Mt. Athemos",
-        "Loot Drops": null
-    },
-    "Muck Boar": {
-        "Level": "16",
-        "Type": "Animal",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Kageti Grove",
-        "Loot Drops": [
-            "Feral War Blade"
-        ]
-    },
-    "Mugger": {
-        "Level": "23",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Alderran Plains",
-        "Loot Drops": null
-    },
-    "Mysterious Ocean Creature": {
-        "Level": "22",
-        "Type": "Aquatic",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Uncooked Fish, Magical Water, Healing Water"
-        ]
-    },
-    "Nezkar Varsee (MB)": {
-        "Level": "7",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "River Road",
-        "Loot Drops": [
-            "Wicked Staff"
-        ]
-    },
-    "Noxious Pirate": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Spindle, Mast Fragment"
-        ]
-    },
-    "Noxious Spectre": {
-        "Level": "22",
-        "Type": "Undead",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": null
-    },
-    "Old Auntie Bettina (MB)": {
-        "Level": "12",
-        "Type": "Undead",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
     },
     "Organic Elemental (B)": {
         "Level": "",
@@ -1501,188 +265,6 @@
             "Orshinium Ore (converts to Emerald, Ruby, Sapphire, Diamond, Coal)"
         ]
     },
-    "Pack Leader (MB)": {
-        "Level": "17",
-        "Type": "Animal",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": [
-            "Wolf Pelt Vest"
-        ]
-    },
-    "Pale Sloth": {
-        "Level": "22",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Panther": {
-        "Level": "16",
-        "Type": "Animal",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Bityrn - Turenyara Border",
-        "Loot Drops": null
-    },
-    "Payara": {
-        "Level": "21",
-        "Type": "Aquatic",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Phantasm": {
-        "Level": "23",
-        "Type": "Undead",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Phantom": {
-        "Level": "23",
-        "Type": "Undead",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Phantom Foreman (MB)": {
-        "Level": "22",
-        "Type": "Greenskin",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": [
-            "Mining Pick"
-        ]
-    },
-    "Phantom of Captain Butcher (B)": {
-        "Level": "25",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Pillager": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Piranha": {
-        "Level": "24",
-        "Type": "Aquatic",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Pirate": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon"
-        ]
-    },
-    "Pirate Ship": {
-        "Level": "25",
-        "Type": "Generic",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Silver Coin"
-        ]
-    },
-    "Pit Viper": {
-        "Level": "21",
-        "Type": "Reptile",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Plains Bandit": {
-        "Level": "16",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Bityrn - Turenyara Border",
-        "Loot Drops": null
-    },
-    "Plains Bison": {
-        "Level": "15",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Bityrn - Turenyara Border",
-        "Loot Drops": null
-    },
-    "Plains Crustacean": {
-        "Level": "22",
-        "Type": "Insect",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Raiders Vale",
-        "Loot Drops": null
-    },
-    "Platypus": {
-        "Level": "20",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Plunderer": {
-        "Level": "23",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Poltergeist": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Puca": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Pygmy Hippo": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
     "Queen Scorpion (MB)": {
         "Level": "",
         "Type": "",
@@ -1693,38 +275,12 @@
             "Skorpius Mantle"
         ]
     },
-    "Rabid Nutria": {
-        "Level": "18",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
     "Ragged Corpse": {
         "Level": "",
         "Type": "",
         "Divinity": "",
         "Capturable": "",
         "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
-    "Raider (MB)": {
-        "Level": "18",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": [
-            "Raiders Edge,"
-        ]
-    },
-    "Raider Archer": {
-        "Level": "20",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Raider's Encampment",
         "Loot Drops": null
     },
     "Raider Chief (B)": {
@@ -1737,78 +293,12 @@
             "Maul of Wrecking"
         ]
     },
-    "Raider Longbowman": {
-        "Level": "19",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Raider's Encampment",
-        "Loot Drops": null
-    },
-    "Raider Pioneer (MB)": {
-        "Level": "22",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Raider's Encampment",
-        "Loot Drops": [
-            "Raider Plight"
-        ]
-    },
-    "Raider Scout": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Abandoned Camp",
-        "Loot Drops": null
-    },
-    "Ranged Infantry": {
-        "Level": "23",
-        "Type": "Demon",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Ruined Watchtower",
-        "Loot Drops": null
-    },
-    "Raven": {
-        "Level": "11",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
-    },
-    "Razortail Hydra": {
-        "Level": "24",
-        "Type": "Beast",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
     "Reanimated Soldier": {
         "Level": null,
         "Type": "Undead",
         "Divinity": null,
         "Capturable": "?",
         "Location": "Ancient Temple",
-        "Loot Drops": null
-    },
-    "Red Haired Sheep": {
-        "Level": "22",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Red Swamp Crayfish": {
-        "Level": "19",
-        "Type": "Aquatic",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
         "Loot Drops": null
     },
     "Refinery Controller (B)": {
@@ -1831,32 +321,6 @@
             "Ruby Axe"
         ]
     },
-    "Refinery Worker": {
-        "Level": "24",
-        "Type": "Aquatic",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": [
-            "Harp of Discord"
-        ]
-    },
-    "Regal Buck": {
-        "Level": "12",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Bitryn",
-        "Loot Drops": null
-    },
-    "Revenant": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
     "Ringleader (B)": {
         "Level": "",
         "Type": "",
@@ -1865,326 +329,6 @@
         "Location": "Linwood Sewers",
         "Loot Drops": [
             "Glowing Emerald Dagger,"
-        ]
-    },
-    "Risen": {
-        "Level": "23",
-        "Type": "Undead",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Wiken Graveyard",
-        "Loot Drops": [
-            "Bone Staff, Bone Shield"
-        ]
-    },
-    "River Shark (MB)": {
-        "Level": "25",
-        "Type": "Aquatic",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": [
-            "Shark Fin Skin"
-        ]
-    },
-    "River Troll": {
-        "Level": "6",
-        "Type": "Greenskin",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "River Road/Journeymans Road",
-        "Loot Drops": [
-            "Oak Hammer"
-        ]
-    },
-    "River Turtle": {
-        "Level": "23",
-        "Type": "Aquatic",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": [
-            "Turtle Shield"
-        ]
-    },
-    "Roadside Raider": {
-        "Level": "16",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Wasteland/Linwood",
-        "Loot Drops": [
-            "Bandit Blade"
-        ]
-    },
-    "Rockhide Catfish": {
-        "Level": "9",
-        "Type": "Aquatic",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Canopia Forest",
-        "Loot Drops": null
-    },
-    "Rotten Dead": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Wiken Graveyard",
-        "Loot Drops": [
-            "Bone Dagger"
-        ]
-    },
-    "Rusalka": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Rustler": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Alderran Plains",
-        "Loot Drops": null
-    },
-    "Sabertooth": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Raiders Vale",
-        "Loot Drops": null
-    },
-    "Sachamama (MB)": {
-        "Level": "25",
-        "Type": "Reptile",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Sailor": {
-        "Level": "19",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox"
-        ]
-    },
-    "Sanguine (MB)": {
-        "Level": "25",
-        "Type": "Undead",
-        "Divinity": "Evil",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
-        ]
-    },
-    "Savage Crocodile": {
-        "Level": "24",
-        "Type": "Reptile",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "School of Piranhas": {
-        "Level": "24",
-        "Type": "Aquatic",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Sea Serpent": {
-        "Level": "24",
-        "Type": "Reptile",
-        "Divinity": "Night",
-        "Capturable": "Yes",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Serpent Remains, Healing Water"
-        ]
-    },
-    "Seadog": {
-        "Level": "20",
-        "Type": "Humanoid",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Coast Gold, Golden Lockbox,"
-        ]
-    },
-    "Sentient Barnacle (MB)": {
-        "Level": "25",
-        "Type": "Beast",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Shade": {
-        "Level": "23",
-        "Type": "Undead",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Shadow Assassin": {
-        "Level": "20",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Linwood Sewers",
-        "Loot Drops": [
-            "Shadow Sword"
-        ]
-    },
-    "Shadow Skeleton": {
-        "Level": "18",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": null
-    },
-    "Siren (MB)": {
-        "Level": "25",
-        "Type": "Aquatic",
-        "Divinity": "Neutral",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": null
-    },
-    "Skeletal Beast": {
-        "Level": "22",
-        "Type": "Undead",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Wiken Graveyard",
-        "Loot Drops": [
-            "Bone Claws"
-        ]
-    },
-    "Skeletal Mare": {
-        "Level": "16",
-        "Type": "Undead",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Bityrn - Turenyara Border",
-        "Loot Drops": null
-    },
-    "Skeletal Remains": {
-        "Level": "22",
-        "Type": "Undead",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Karnath Mines",
-        "Loot Drops": null
-    },
-    "Snake": {
-        "Level": "4",
-        "Type": "Animal",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Journeymans Road",
-        "Loot Drops": [
-            "Snake Skin Cap Venom Gland"
-        ]
-    },
-    "Snow Leopard": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Ice",
-        "Capturable": "Yes",
-        "Location": "Mt. Athemos",
-        "Loot Drops": null
-    },
-    "Soldier Ant": {
-        "Level": "15",
-        "Type": "Insect",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Turenyara Ant Hill",
-        "Loot Drops": null
-    },
-    "Speckled Python": {
-        "Level": "22",
-        "Type": "Reptile",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Specter": {
-        "Level": "24",
-        "Type": "Undead",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Spectral Lion (MB)": {
-        "Level": "25",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": [
-            "Blue Spectral Robe"
-        ]
-    },
-    "Spectral Manifestation": {
-        "Level": "25",
-        "Type": "Elemental",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Refinery",
-        "Loot Drops": null
-    },
-    "Spider Crab": {
-        "Level": "23",
-        "Type": "Aquatic",
-        "Divinity": "Fire",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Spotted Jaguar": {
-        "Level": "23",
-        "Type": "Beast",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Sprite": {
-        "Level": "23",
-        "Type": "Undead",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Squid": {
-        "Level": "22",
-        "Type": "Aquatic",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Healing Water"
         ]
     },
     "Static Elemental (B)": {
@@ -2197,32 +341,6 @@
             "Onyx Plate"
         ]
     },
-    "Succubus": {
-        "Level": "22",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Plains Road",
-        "Loot Drops": null
-    },
-    "Swamp Bullfrog": {
-        "Level": "21",
-        "Type": "Reptile",
-        "Divinity": "Water",
-        "Capturable": "Yes",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Swashbuckler": {
-        "Level": "24",
-        "Type": "Humanoid",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Gold Doubloon, Golden Lockbox"
-        ]
-    },
     "Sweltry Elemental (B)": {
         "Level": "",
         "Type": "Elemental",
@@ -2233,78 +351,6 @@
             "Onyx Plate"
         ]
     },
-    "Sword Fish": {
-        "Level": "20",
-        "Type": "Aquatic",
-        "Divinity": "Water",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Uncooked Fish, Magical Water, Healing Water"
-        ]
-    },
-    "Tainted Hawk": {
-        "Level": "21",
-        "Type": "Animal",
-        "Divinity": "Lightning",
-        "Capturable": "Yes",
-        "Location": "Wasteland",
-        "Loot Drops": [
-            "Tainted Claws"
-        ]
-    },
-    "Tainted Walker": {
-        "Level": "21",
-        "Type": "Beast",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
-    },
-    "Tainted Wolf": {
-        "Level": "15",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "Yes",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "Terrified Cultist": {
-        "Level": "22",
-        "Type": "Greenskin",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": null
-    },
-    "The Wizened Old Man (MB?)": {
-        "Level": "10",
-        "Type": "Undead",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": [
-            "Yellow Slime"
-        ]
-    },
-    "Trail Bandits": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Northern Rock Plateau",
-        "Loot Drops": null
-    },
-    "Tranced Dweller": {
-        "Level": "18",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Wasteland",
-        "Loot Drops": [
-            "Tainted Hat, Tainted Robes"
-        ]
-    },
     "Treant Elder (MB)": {
         "Level": "",
         "Type": "",
@@ -2313,52 +359,6 @@
         "Location": "Canopia Forest",
         "Loot Drops": [
             "Elder Staff"
-        ]
-    },
-    "Treant Hierarch": {
-        "Level": "12",
-        "Type": "Plant",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Canopia Forest",
-        "Loot Drops": null
-    },
-    "Troll": {
-        "Level": "5",
-        "Type": "Greenskin",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "River Road/Journeymans Road",
-        "Loot Drops": [
-            "Oak Sword"
-        ]
-    },
-    "Turkey Buzzard": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Alderran Plains",
-        "Loot Drops": null
-    },
-    "Tyrant": {
-        "Level": "25",
-        "Type": "Undead",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
-        ]
-    },
-    "Uberto Hargrove (B)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Silk Mantle"
         ]
     },
     "Undead Commander (MB)": {
@@ -2379,32 +379,6 @@
             "Starlight Spade, Starlight Cloak"
         ]
     },
-    "Ururk Kuredall (B)": {
-        "Level": "25",
-        "Type": "Humanoid",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Kraken",
-        "Loot Drops": [
-            "Silk Hauberk"
-        ]
-    },
-    "Vale Walker": {
-        "Level": "23",
-        "Type": "Insect",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Raiders Vale",
-        "Loot Drops": null
-    },
-    "Vicious Raider Husky": {
-        "Level": "18",
-        "Type": "Beast",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Raider's Encampment",
-        "Loot Drops": null
-    },
     "Vila Sprout": {
         "Level": "",
         "Type": "Plant",
@@ -2419,14 +393,6 @@
         "Divinity": "Earth",
         "Capturable": "No",
         "Location": "Dreadlands",
-        "Loot Drops": null
-    },
-    "Vodyanoy (MB)": {
-        "Level": "25",
-        "Type": "Demon",
-        "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
         "Loot Drops": null
     },
     "Void Elemental": {
@@ -2449,63 +415,83 @@
             "Void Cloak"
         ]
     },
-    "Void Recluse": {
-        "Level": "23",
-        "Type": "Insect",
-        "Divinity": "Fire",
+    "Mosquito": {
+        "Level": "3",
+        "Type": "Animal",
+        "Divinity": "Earth",
         "Capturable": "Yes",
-        "Location": "Ruined Watchtower",
-        "Loot Drops": null
-    },
-    "Walker Guardian": {
-        "Level": "23",
-        "Type": "Humanoid",
-        "Divinity": "Lightning",
-        "Capturable": "No",
-        "Location": "Ruined Watchtower",
+        "Location": "Journeymans Road",
         "Loot Drops": [
-            "Ethereal Flamberg"
+            "Pointy Stinger"
         ]
     },
-    "Wallabear": {
-        "Level": "8",
+    "Black Caiman": {
+        "Level": "4",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Journeymans Road",
+        "Loot Drops": [
+            "Crocodile Skin Vest Crocodile Skin"
+        ]
+    },
+    "Frog": {
+        "Level": "4",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Journeymans Road",
+        "Loot Drops": [
+            "Frog Juice Frog Legs Prince's Letter"
+        ]
+    },
+    "Snake": {
+        "Level": "4",
         "Type": "Animal",
         "Divinity": "Fire",
         "Capturable": "Yes",
-        "Location": "Grotesque Garden",
-        "Loot Drops": null
+        "Location": "Journeymans Road",
+        "Loot Drops": [
+            "Snake Skin Cap Venom Gland"
+        ]
     },
-    "Wandering Spirit": {
-        "Level": "11",
-        "Type": "Undead",
+    "Bullfrog": {
+        "Level": "5",
+        "Type": "Animal",
         "Divinity": "Ice",
-        "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
+        "Capturable": "Yes",
+        "Location": "Journeymans Road",
+        "Loot Drops": [
+            "Frog Juice Frog Legs Prince's Letter"
+        ]
     },
-    "Watcher of the First Spawn (OAD)": {
-        "Level": "25",
-        "Type": "Reptile",
-        "Divinity": "Fire",
-        "Capturable": "No",
-        "Location": "Ebonmurk",
-        "Loot Drops": null
+    "Forest Bandit": {
+        "Level": "5",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "no",
+        "Location": "Journeymans Road",
+        "Loot Drops": [
+            "Rusty Dagger Rations, Topaz Potion?"
+        ]
     },
-    "Wicked Tree": {
-        "Level": "12",
-        "Type": "Plant",
+    "Hare": {
+        "Level": "5",
+        "Type": "Animal",
         "Divinity": "Earth",
         "Capturable": "No",
-        "Location": "Bitryn",
+        "Location": "Wasteland",
         "Loot Drops": null
     },
-    "Wil-o-the-wisp": {
-        "Level": "14",
-        "Type": "Undead",
+    "Troll": {
+        "Level": "5",
+        "Type": "Greenskin",
         "Divinity": "Lightning",
         "Capturable": "No",
-        "Location": "Forgotten Cemetary",
-        "Loot Drops": null
+        "Location": "River Road/Journeymans Road",
+        "Loot Drops": [
+            "Oak Sword"
+        ]
     },
     "Wild Ewe": {
         "Level": "5",
@@ -2533,28 +519,126 @@
             "Sturdy Plate?"
         ]
     },
-    "Wild Ram": {
-        "Level": "24",
-        "Type": "Animal",
-        "Divinity": "Earth",
-        "Capturable": "No",
-        "Location": "Alderran Plains",
+    "Bleackweave Arachnid": {
+        "Level": "6",
+        "Type": "Insect",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Canopia Forest",
         "Loot Drops": null
     },
-    "Witch": {
-        "Level": "22",
+    "Equilax": {
+        "Level": "6",
+        "Type": "Animal",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Grotesque Garden",
+        "Loot Drops": null
+    },
+    "River Troll": {
+        "Level": "6",
+        "Type": "Greenskin",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "River Road/Journeymans Road",
+        "Loot Drops": [
+            "Oak Hammer"
+        ]
+    },
+    "Meadow Fox": {
+        "Level": "7",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Canopia Forest",
+        "Loot Drops": null
+    },
+    "Nezkar Varsee (MB)": {
+        "Level": "7",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "River Road",
+        "Loot Drops": [
+            "Wicked Staff"
+        ]
+    },
+    "Zebraroo": {
+        "Level": "7",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Grotesque Garden",
+        "Loot Drops": null
+    },
+    "Beavox": {
+        "Level": "8",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Grotesque Garden",
+        "Loot Drops": null
+    },
+    "Canopia Logger": {
+        "Level": "8",
         "Type": "Humanoid",
         "Divinity": "Night",
         "Capturable": "No",
-        "Location": "Plains Road",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Foresters Axe"
+        ]
+    },
+    "Copperhead": {
+        "Level": "8",
+        "Type": "Reptile",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Snake Skin Cap"
+        ]
+    },
+    "Hawk": {
+        "Level": "8",
+        "Type": "Animal",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Canopia Forest",
         "Loot Drops": null
     },
-    "Wraith": {
-        "Level": "24",
-        "Type": "Undead",
+    "Wallabear": {
+        "Level": "8",
+        "Type": "Animal",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Grotesque Garden",
+        "Loot Drops": null
+    },
+    "Canopia Deforester": {
+        "Level": "9",
+        "Type": "Humanoid",
         "Divinity": "Fire",
         "Capturable": "No",
-        "Location": "Plains Road",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Foresters Axe"
+        ]
+    },
+    "Frenzied Treant": {
+        "Level": "9",
+        "Type": "Plant",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Canopia Forest",
+        "Loot Drops": null
+    },
+    "Rockhide Catfish": {
+        "Level": "9",
+        "Type": "Aquatic",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Canopia Forest",
         "Loot Drops": null
     },
     "Yakten": {
@@ -2565,6 +649,1302 @@
         "Location": "Grotesque Garden",
         "Loot Drops": null
     },
+    "Canopia Operator": {
+        "Level": "10",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Foresters Axe"
+        ]
+    },
+    "Ghostly Child": {
+        "Level": "10",
+        "Type": "Undead",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Lumbering Bear": {
+        "Level": "10",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Bitryn",
+        "Loot Drops": null
+    },
+    "The Wizened Old Man (MB?)": {
+        "Level": "10",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": [
+            "Yellow Slime"
+        ]
+    },
+    "Dragonfly": {
+        "Level": "11",
+        "Type": "Insect",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Bitryn",
+        "Loot Drops": null
+    },
+    "Raven": {
+        "Level": "11",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Wandering Spirit": {
+        "Level": "11",
+        "Type": "Undead",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Awakened Corpse": {
+        "Level": "12",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Black Panther Cub": {
+        "Level": "12",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Bitryn",
+        "Loot Drops": null
+    },
+    "Canopia Foreman": {
+        "Level": "12",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Foremans Hammer"
+        ]
+    },
+    "Dark Druid (MB)": {
+        "Level": "12",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Grotesque Garden",
+        "Loot Drops": [
+            "Vulkrow Claws"
+        ]
+    },
+    "Forest Troll": {
+        "Level": "12",
+        "Type": "Greenskin",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Grotesque Garden",
+        "Loot Drops": null
+    },
+    "Forest Witch (MB)": {
+        "Level": "12",
+        "Type": "Human",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Forest Cloak"
+        ]
+    },
+    "Moldy Skeleton": {
+        "Level": "12",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Old Auntie Bettina (MB)": {
+        "Level": "12",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Regal Buck": {
+        "Level": "12",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Bitryn",
+        "Loot Drops": null
+    },
+    "Treant Hierarch": {
+        "Level": "12",
+        "Type": "Plant",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Canopia Forest",
+        "Loot Drops": null
+    },
+    "Wicked Tree": {
+        "Level": "12",
+        "Type": "Plant",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Bitryn",
+        "Loot Drops": null
+    },
+    "Angry Poltergeist": {
+        "Level": "13",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Carpenter Ant": {
+        "Level": "13",
+        "Type": "Insect",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Bitryn",
+        "Loot Drops": null
+    },
+    "Kageti Crow": {
+        "Level": "13",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Kageti Grove",
+        "Loot Drops": null
+    },
+    "Marauding Bear (MB)": {
+        "Level": "13",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Bitryn",
+        "Loot Drops": [
+            "Bearskin Cloak"
+        ]
+    },
+    "Dusk Rat": {
+        "Level": "14",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Kageti Grove",
+        "Loot Drops": null
+    },
+    "Head Foreman (MB)": {
+        "Level": "14",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Canopia Forest",
+        "Loot Drops": [
+            "Foremans Hammer"
+        ]
+    },
+    "Living Sap": {
+        "Level": "14",
+        "Type": "Elemental",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Bityrn - Turenyara Border",
+        "Loot Drops": null
+    },
+    "Wil-o-the-wisp": {
+        "Level": "14",
+        "Type": "Undead",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Forgotten Cemetary",
+        "Loot Drops": null
+    },
+    "Beggar": {
+        "Level": "15",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Cult Recruit": {
+        "Level": "15",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Giant Ant": {
+        "Level": "15",
+        "Type": "Insect",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Bityrn - Turenyara Border",
+        "Loot Drops": null
+    },
+    "Plains Bison": {
+        "Level": "15",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Bityrn - Turenyara Border",
+        "Loot Drops": null
+    },
+    "Soldier Ant": {
+        "Level": "15",
+        "Type": "Insect",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Turenyara Ant Hill",
+        "Loot Drops": null
+    },
+    "Tainted Wolf": {
+        "Level": "15",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Monarch Ant": {
+        "Level": "16",
+        "Type": "Insect",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Turenyara Ant Hill",
+        "Loot Drops": [
+            "Onyx Stinger"
+        ]
+    },
+    "Muck Boar": {
+        "Level": "16",
+        "Type": "Animal",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Kageti Grove",
+        "Loot Drops": [
+            "Feral War Blade"
+        ]
+    },
+    "Panther": {
+        "Level": "16",
+        "Type": "Animal",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Bityrn - Turenyara Border",
+        "Loot Drops": null
+    },
+    "Plains Bandit": {
+        "Level": "16",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Bityrn - Turenyara Border",
+        "Loot Drops": null
+    },
+    "Roadside Raider": {
+        "Level": "16",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Wasteland/Linwood",
+        "Loot Drops": [
+            "Bandit Blade"
+        ]
+    },
+    "Skeletal Mare": {
+        "Level": "16",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Bityrn - Turenyara Border",
+        "Loot Drops": null
+    },
+    "Bandit Scout": {
+        "Level": "17",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Wasteland/Linwood",
+        "Loot Drops": [
+            "Bandit Blade"
+        ]
+    },
+    "Bear": {
+        "Level": "17",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Turenyara - North",
+        "Loot Drops": null
+    },
+    "Black Badger": {
+        "Level": "17",
+        "Type": "Animal",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Kageti Grove",
+        "Loot Drops": [
+            "Badgers Hood"
+        ]
+    },
+    "Crazed Dweller": {
+        "Level": "17",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": [
+            "Tainted Hat, Tainted Robes"
+        ]
+    },
+    "Pack Leader (MB)": {
+        "Level": "17",
+        "Type": "Animal",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": [
+            "Wolf Pelt Vest"
+        ]
+    },
+    "Corrupted Guard": {
+        "Level": "18",
+        "Type": "Humanoid",
+        "Divinity": "Neutral",
+        "Capturable": "No",
+        "Location": "Linwood",
+        "Loot Drops": null
+    },
+    "Deckhand": {
+        "Level": "18",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Rabid Nutria": {
+        "Level": "18",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Raider (MB)": {
+        "Level": "18",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": [
+            "Raiders Edge,"
+        ]
+    },
+    "Shadow Skeleton": {
+        "Level": "18",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Tranced Dweller": {
+        "Level": "18",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": [
+            "Tainted Hat, Tainted Robes"
+        ]
+    },
+    "Vicious Raider Husky": {
+        "Level": "18",
+        "Type": "Beast",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Raider's Encampment",
+        "Loot Drops": null
+    },
+    "Crimson Axolotl": {
+        "Level": "19",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Cultist Recruiter (MB)": {
+        "Level": "19",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": [
+            "Tainted Hat, Tainted Robes"
+        ]
+    },
+    "Daeva": {
+        "Level": "19",
+        "Type": "Elemental",
+        "Divinity": "One of each",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Mountain Goat": {
+        "Level": "19",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Mt. Athemos",
+        "Loot Drops": [
+            "Bone Club"
+        ]
+    },
+    "Raider Longbowman": {
+        "Level": "19",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Raider's Encampment",
+        "Loot Drops": null
+    },
+    "Red Swamp Crayfish": {
+        "Level": "19",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Sailor": {
+        "Level": "19",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Blood Imps": {
+        "Level": "20",
+        "Type": "Demon",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Wasteland/Wiken Graveyard",
+        "Loot Drops": null
+    },
+    "Carrion Flies": {
+        "Level": "20",
+        "Type": "Insect",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Defiled Essence": {
+        "Level": "20",
+        "Type": "Elemental",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Deformed Miner": {
+        "Level": "20",
+        "Type": "Greenskin",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": [
+            "Mining Pick, Lantern, Hunk of Dirty Rock, Rune Orb"
+        ]
+    },
+    "Drudge": {
+        "Level": "20",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Highway Man": {
+        "Level": "20",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Raiders Road",
+        "Loot Drops": null
+    },
+    "Jackal": {
+        "Level": "20",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Mt. Athemos",
+        "Loot Drops": null
+    },
+    "Manta Ray": {
+        "Level": "20",
+        "Type": "Aquatic",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Broken Stinger, Magical Water, Healing Water"
+        ]
+    },
+    "Platypus": {
+        "Level": "20",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Raider Archer": {
+        "Level": "20",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Raider's Encampment",
+        "Loot Drops": null
+    },
+    "Seadog": {
+        "Level": "20",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox,"
+        ]
+    },
+    "Shadow Assassin": {
+        "Level": "20",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Linwood Sewers",
+        "Loot Drops": [
+            "Shadow Sword"
+        ]
+    },
+    "Sword Fish": {
+        "Level": "20",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Uncooked Fish, Magical Water, Healing Water"
+        ]
+    },
+    "Arapaima": {
+        "Level": "21",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Barbed-Tooth Leech": {
+        "Level": "21",
+        "Type": "Insect",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Buccaneer": {
+        "Level": "21",
+        "Type": "Humanoid",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Cougar": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Raiders Vale",
+        "Loot Drops": null
+    },
+    "Diseased Capybara": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Giant Alligator": {
+        "Level": "21",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Uncooked Fish, Magical Water, Healing Water"
+        ]
+    },
+    "Great Egret": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Water",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Marauder": {
+        "Level": "21",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Raider's Encampment",
+        "Loot Drops": null
+    },
+    "Mariner": {
+        "Level": "21",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Payara": {
+        "Level": "21",
+        "Type": "Aquatic",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Pit Viper": {
+        "Level": "21",
+        "Type": "Reptile",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Pygmy Hippo": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Sabertooth": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Raiders Vale",
+        "Loot Drops": null
+    },
+    "Snow Leopard": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Ice",
+        "Capturable": "Yes",
+        "Location": "Mt. Athemos",
+        "Loot Drops": null
+    },
+    "Swamp Bullfrog": {
+        "Level": "21",
+        "Type": "Reptile",
+        "Divinity": "Water",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Tainted Hawk": {
+        "Level": "21",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Wasteland",
+        "Loot Drops": [
+            "Tainted Claws"
+        ]
+    },
+    "Tainted Walker": {
+        "Level": "21",
+        "Type": "Beast",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Adept Cultist": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Wasteland/Wiken",
+        "Loot Drops": [
+            "Tainted Hat, Tainted Robes"
+        ]
+    },
+    "Aether Knight": {
+        "Level": "22",
+        "Type": "Demon",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": null
+    },
+    "Anglerfish": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Armored Shell Snapper": {
+        "Level": "22",
+        "Type": "Reptile",
+        "Divinity": "Water",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Black Bear": {
+        "Level": "22",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Raiders Vale",
+        "Loot Drops": null
+    },
+    "Bone Archer": {
+        "Level": "22",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Wiken Graveyard",
+        "Loot Drops": [
+            "Bone Bow"
+        ]
+    },
+    "Bull Shark": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Cadaver": {
+        "Level": "22",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Crazed Miner": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Dwarven Mines",
+        "Loot Drops": null
+    },
+    "Dart Frog": {
+        "Level": "22",
+        "Type": "Reptile",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Death Knight": {
+        "Level": "22",
+        "Type": "Demon",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": [
+            "Bladed Staff"
+        ]
+    },
+    "Deranged Remnant": {
+        "Level": "22",
+        "Type": "Demon",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": [
+            "Bladed Staff"
+        ]
+    },
+    "Eagle": {
+        "Level": "22",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Mt. Athemos",
+        "Loot Drops": [
+            "Eagle Talons"
+        ]
+    },
+    "Giant Octopus": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Tentacles, Healing Water, Magical Water"
+        ]
+    },
+    "Gravedigger (MB)": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Neutral",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Grey Hawk": {
+        "Level": "22",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Grey Wolf": {
+        "Level": "22",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Gunner": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Imperial Healer": {
+        "Level": "22",
+        "Type": "Demon",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": null
+    },
+    "Mountain Trapper": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Mt. Athemos",
+        "Loot Drops": null
+    },
+    "Mysterious Ocean Creature": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Uncooked Fish, Magical Water, Healing Water"
+        ]
+    },
+    "Noxious Spectre": {
+        "Level": "22",
+        "Type": "Undead",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Pale Sloth": {
+        "Level": "22",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Phantom Foreman (MB)": {
+        "Level": "22",
+        "Type": "Greenskin",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": [
+            "Mining Pick"
+        ]
+    },
+    "Pillager": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Plains Crustacean": {
+        "Level": "22",
+        "Type": "Insect",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Raiders Vale",
+        "Loot Drops": null
+    },
+    "Raider Pioneer (MB)": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Raider's Encampment",
+        "Loot Drops": [
+            "Raider Plight"
+        ]
+    },
+    "Red Haired Sheep": {
+        "Level": "22",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Skeletal Beast": {
+        "Level": "22",
+        "Type": "Undead",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Wiken Graveyard",
+        "Loot Drops": [
+            "Bone Claws"
+        ]
+    },
+    "Skeletal Remains": {
+        "Level": "22",
+        "Type": "Undead",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Karnath Mines",
+        "Loot Drops": null
+    },
+    "Speckled Python": {
+        "Level": "22",
+        "Type": "Reptile",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Squid": {
+        "Level": "22",
+        "Type": "Aquatic",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Healing Water"
+        ]
+    },
+    "Succubus": {
+        "Level": "22",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Terrified Cultist": {
+        "Level": "22",
+        "Type": "Greenskin",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Witch": {
+        "Level": "22",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Abyssal Stingray": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Anaconda": {
+        "Level": "23",
+        "Type": "Reptile",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Corpse": {
+        "Level": "23",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Dwarven Berserker": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Dwarven Mines",
+        "Loot Drops": [
+            "Mithril Double Axe"
+        ]
+    },
+    "Dwarven Brigand": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Dwarven Mines",
+        "Loot Drops": [
+            "Mithril Dagger"
+        ]
+    },
+    "Enraged Bovine": {
+        "Level": "23",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Fumbling Druid (B?)": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Wasteland",
+        "Loot Drops": null
+    },
+    "Giant Whale": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Healing Water"
+        ]
+    },
+    "Great White Shark": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Healing Water"
+        ]
+    },
+    "Haltija": {
+        "Level": "23",
+        "Type": "Plant",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "King Cobra": {
+        "Level": "23",
+        "Type": "Reptile",
+        "Divinity": "Lightning",
+        "Capturable": "Yes",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Lobizon": {
+        "Level": "23",
+        "Type": "Beast",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Mermaid": {
+        "Level": "24",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Sea Shells"
+        ]
+    },
+    "Mugger": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Alderran Plains",
+        "Loot Drops": null
+    },
+    "Phantasm": {
+        "Level": "23",
+        "Type": "Undead",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Phantom": {
+        "Level": "23",
+        "Type": "Undead",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Plunderer": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Coast Gold, Golden Lockbox"
+        ]
+    },
+    "Ranged Infantry": {
+        "Level": "23",
+        "Type": "Demon",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": null
+    },
+    "Risen": {
+        "Level": "23",
+        "Type": "Undead",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Wiken Graveyard",
+        "Loot Drops": [
+            "Bone Staff, Bone Shield"
+        ]
+    },
+    "River Turtle": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": [
+            "Turtle Shield"
+        ]
+    },
+    "Shade": {
+        "Level": "23",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Spider Crab": {
+        "Level": "23",
+        "Type": "Aquatic",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Spotted Jaguar": {
+        "Level": "23",
+        "Type": "Beast",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Sprite": {
+        "Level": "23",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Vale Walker": {
+        "Level": "23",
+        "Type": "Insect",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Raiders Vale",
+        "Loot Drops": null
+    },
+    "Void Recluse": {
+        "Level": "23",
+        "Type": "Insect",
+        "Divinity": "Fire",
+        "Capturable": "Yes",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": null
+    },
+    "Walker Guardian": {
+        "Level": "23",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Ruined Watchtower",
+        "Loot Drops": [
+            "Ethereal Flamberg"
+        ]
+    },
     "Yeren": {
         "Level": "23",
         "Type": "Beast",
@@ -2573,12 +1953,632 @@
         "Location": "Northern Rock Plateau",
         "Loot Drops": null
     },
-    "Zebraroo": {
-        "Level": "7",
+    "Abyssal Olm": {
+        "Level": "24",
+        "Type": "Aquatic",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Arcane Slave (Blue)": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": [
+            "Arcane Sword"
+        ]
+    },
+    "Blackspawn Guard": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Abandoned Camp",
+        "Loot Drops": null
+    },
+    "Cursed Looter": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Abandoned Camp",
+        "Loot Drops": null
+    },
+    "Cusith": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Dread Rodent": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Refinery",
+        "Loot Drops": [
+            "Dread Maul"
+        ]
+    },
+    "Dwarven Ninja": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Dwarven Mines",
+        "Loot Drops": [
+            "Mithril Staff"
+        ]
+    },
+    "Enraged Phantom": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Ghast": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Ghost": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Storm",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Ghostly Helmswoman": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Grassland Lion": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Guard Dog": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "King Scorpion": {
+        "Level": "24",
         "Type": "Animal",
         "Divinity": "Lightning",
         "Capturable": "Yes",
-        "Location": "Grotesque Garden",
+        "Location": "Dwarven Mines",
+        "Loot Drops": [
+            "Kings Stinger"
+        ]
+    },
+    "Mana Demon": {
+        "Level": "24",
+        "Type": "Demon",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": null
+    },
+    "Mana Infused Psychotic": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": null
+    },
+    "Misty Wolf": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Alderran Plains",
+        "Loot Drops": null
+    },
+    "Piranha": {
+        "Level": "24",
+        "Type": "Aquatic",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Poltergeist": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Puca": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Raider Scout": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Abandoned Camp",
+        "Loot Drops": null
+    },
+    "Razortail Hydra": {
+        "Level": "24",
+        "Type": "Beast",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Refinery Worker": {
+        "Level": "24",
+        "Type": "Aquatic",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": [
+            "Harp of Discord"
+        ]
+    },
+    "Revenant": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Rotten Dead": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Wiken Graveyard",
+        "Loot Drops": [
+            "Bone Dagger"
+        ]
+    },
+    "Rusalka": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Savage Crocodile": {
+        "Level": "24",
+        "Type": "Reptile",
+        "Divinity": "Earth",
+        "Capturable": "Yes",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "School of Piranhas": {
+        "Level": "24",
+        "Type": "Aquatic",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Sea Serpent": {
+        "Level": "24",
+        "Type": "Reptile",
+        "Divinity": "Night",
+        "Capturable": "Yes",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Serpent Remains, Healing Water"
+        ]
+    },
+    "Specter": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Swashbuckler": {
+        "Level": "24",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon, Golden Lockbox"
+        ]
+    },
+    "Turkey Buzzard": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Alderran Plains",
+        "Loot Drops": null
+    },
+    "Wild Ram": {
+        "Level": "24",
+        "Type": "Animal",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Alderran Plains",
+        "Loot Drops": null
+    },
+    "Wraith": {
+        "Level": "24",
+        "Type": "Undead",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Plains Road",
+        "Loot Drops": null
+    },
+    "Amelia Sasoo (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silk Gloves"
+        ]
+    },
+    "Ancient Egg (OAD)": {
+        "Level": "25",
+        "Type": "Reptile",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Bunyip (MB)": {
+        "Level": "25",
+        "Type": "Beast",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Captain Butcher (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Caretaker of the First Spawn (OAD)": {
+        "Level": "25",
+        "Type": "Reptile",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Crazed Furnace Worker (MB)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": [
+            "Incinerating Knife"
+        ]
+    },
+    "Descendant of the First Spawn (OAD)": {
+        "Level": "25",
+        "Type": "Reptile",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Disciple of the First Spawn (OAD)": {
+        "Level": "25",
+        "Type": "Reptile",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Dracokin": {
+        "Level": "25",
+        "Type": "Dragon",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Dreadlands",
+        "Loot Drops": [
+            "Dracokin Skins"
+        ]
+    },
+    "Elna Crowley (MB)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Farmaris Morcan (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Bone Rondel"
+        ]
+    },
+    "Foul (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
+    },
+    "Ice Princess (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
+    },
+    "Leviathan (MB)": {
+        "Level": "25",
+        "Type": " ???",
+        "Divinity": " ???",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Lykai Allard (MB)": {
+        "Level": "25",
+        "Type": "Greenskin",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Madame Clucks-a-lot (MB)": {
+        "Level": "25",
+        "Type": "Animal",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Alderran Plains",
+        "Loot Drops": null
+    },
+    "Maiden (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
+    },
+    "Mana Devil (OAD)": {
+        "Level": "25",
+        "Type": "Demon",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": [
+            "Devils Plate"
+        ]
+    },
+    "Mapinguari (MB)": {
+        "Level": "25",
+        "Type": "Beast",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Noxious Pirate": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Spindle, Mast Fragment"
+        ]
+    },
+    "Phantom of Captain Butcher (B)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Night",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Pirate": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Gold Doubloon"
+        ]
+    },
+    "Pirate Ship": {
+        "Level": "25",
+        "Type": "Generic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silver Coin"
+        ]
+    },
+    "River Shark (MB)": {
+        "Level": "25",
+        "Type": "Aquatic",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": [
+            "Shark Fin Skin"
+        ]
+    },
+    "Rustler": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Alderran Plains",
+        "Loot Drops": null
+    },
+    "Sachamama (MB)": {
+        "Level": "25",
+        "Type": "Reptile",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Sanguine (MB)": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Evil",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
+        ]
+    },
+    "Sentient Barnacle (MB)": {
+        "Level": "25",
+        "Type": "Beast",
+        "Divinity": "Water",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Siren (MB)": {
+        "Level": "25",
+        "Type": "Aquatic",
+        "Divinity": "Neutral",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": null
+    },
+    "Spectral Lion (MB)": {
+        "Level": "25",
+        "Type": "Animal",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": [
+            "Blue Spectral Robe"
+        ]
+    },
+    "Spectral Manifestation": {
+        "Level": "25",
+        "Type": "Elemental",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Refinery",
+        "Loot Drops": null
+    },
+    "Trail Bandits": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Northern Rock Plateau",
+        "Loot Drops": null
+    },
+    "Tyrant": {
+        "Level": "25",
+        "Type": "Undead",
+        "Divinity": "Earth",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
+        ]
+    },
+    "Uberto Hargrove (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Lightning",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silk Mantle"
+        ]
+    },
+    "Ururk Kuredall (B)": {
+        "Level": "25",
+        "Type": "Humanoid",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Kraken",
+        "Loot Drops": [
+            "Silk Hauberk"
+        ]
+    },
+    "Vodyanoy (MB)": {
+        "Level": "25",
+        "Type": "Demon",
+        "Divinity": "Ice",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
+        "Loot Drops": null
+    },
+    "Watcher of the First Spawn (OAD)": {
+        "Level": "25",
+        "Type": "Reptile",
+        "Divinity": "Fire",
+        "Capturable": "No",
+        "Location": "Ebonmurk",
         "Loot Drops": null
     }
 }
