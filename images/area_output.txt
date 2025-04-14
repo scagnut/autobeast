@@ -17,22 +17,22 @@ Grotesque Garden https://github.com/scagnut/autobeast/blob/e863a19082b271e709505
 Journeymans Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
 Kakegi Grove https://github.com/scagnut/autobeast/blob/194c6fc52a08bf2d6cbac20aafe1a47f7bc250c3/images/Kakegi_Grove.png
 Karnath Mines https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png
-Kraken
-Kraken Isle
-Linwood 
+Kraken https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png
+Kraken Isle https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png
+Linwood https://github.com/scagnut/autobeast/blob/d3defd0ae020aab0629610effcd0d7b887d83a7b/images/Linwood.png
 Linwood Sewers https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Linwood_Sewers.png
-Mt. Athemos
+Mt. Athemos https://github.com/scagnut/autobeast/blob/d8842d26683e97c900876578b91212d2103157f7/images/Mt.%20Athemos.png
 Northern Pass
-Northern Rock Plateau
+Northern Rock Plateau https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png
 Old Carver Road
 Plains Road
-Raider's Encampment
-Raiders Road
+Raider's Encampment https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png
+Raiders Road 
 Raiders Vale
-Refinery
+Refinery https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png
 River Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
 River Road/Journeymans Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
-Ruined Watchtower
+Ruined Watchtower https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png
 Sakuzin Underground
 Turenyara - North
 Turenyara Ant Hill
@@ -41,4 +41,4 @@ Wasteland/Linwood
 Wasteland/Wiken
 Wasteland/Wiken Graveyard
 Wastelands
-Wiken Graveyard
+Wiken Graveyard https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg
