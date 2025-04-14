@@ -8,7 +8,7 @@ Canopia Forest https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527
 Dougue Road
 Dreadlands https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png
 Dusty Road
-Dwarven Mines
+Dwarven Mines https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png
 Ebonmurk
 Excavation Site
 Farmland
