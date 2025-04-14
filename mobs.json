@@ -1091,15 +1091,18 @@
             "Glowing Emerald Dagger,"
         ]
     },
-    "Shadow Assassin": {
-        "Level": "20",
-        "Type": "Humanoid",
-        "Divinity": "Night",
-        "Capturable": "No",
-        "Location": "Linwood Sewers",
-        "Loot Drops": [
-            "Shadow Sword , Mort's Money"
-        ]
+"Shadow Assassin": {
+    "Level": "20",
+    "Type": "Humanoid",
+    "Divinity": "Night",
+    "Capturable": "No",
+    "Location": "Linwood Sewers",
+    "Loot Drops": [
+        "Shadow Sword",
+        "Mort's Money"
+    ],
+    "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Linwood_Sewers.png"
+}
     },
     "Eagle": {
         "Level": "22",
