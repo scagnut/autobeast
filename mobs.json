@@ -1015,7 +1015,7 @@
         "Type": "Animal",
         "Divinity": "Fire",
         "Capturable": "Yes",
-        "Location": "Kageti Grove",
+        "Location": "Kakegi Grove",
         "Loot Drops": [
             "Badgers Hood"
         ]
@@ -1025,15 +1025,15 @@
         "Type": "Animal",
         "Divinity": "Night",
         "Capturable": "Yes",
-        "Location": "Kageti Grove",
+        "Location": "Kakegi Grove",
         "Loot Drops": null
     },
-    "Kageti Crow": {
+    "Kakegi Crow": {
         "Level": "13",
         "Type": "Animal",
         "Divinity": "Lightning",
         "Capturable": "Yes",
-        "Location": "Kageti Grove",
+        "Location": "Kakegi Grove",
         "Loot Drops": null
     },
     "Luna (MB)": {
@@ -1041,7 +1041,7 @@
         "Type": "",
         "Divinity": "",
         "Capturable": "No",
-        "Location": "Kageti Grove",
+        "Location": "Kakegi Grove",
         "Loot Drops": [
             "Ivory Nunchaku"
         ]
@@ -1051,7 +1051,7 @@
         "Type": "",
         "Divinity": "",
         "Capturable": "No",
-        "Location": "Kageti Grove",
+        "Location": "Kakegi Grove",
         "Loot Drops": [
             "Shinobi Shozoku"
         ]
@@ -1061,7 +1061,7 @@
         "Type": "Animal",
         "Divinity": "Ice",
         "Capturable": "Yes",
-        "Location": "Kageti Grove",
+        "Location": "Kakegi Grove",
         "Loot Drops": [
             "Feral War Blade"
         ]
