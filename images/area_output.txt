@@ -9,14 +9,14 @@ Dougue Road
 Dreadlands https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png
 Dusty Road
 Dwarven Mines https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png
-Ebonmurk
+Ebonmurk https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png
 Excavation Site
 Farmland
-Forgotten Cemetary
-Grotesque Garden
+Forgotten Cemetary https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png
+Grotesque Garden https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png
 Journeymans Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
-Kageti Grove
-Karnath Mines
+Kakegi Grove https://github.com/scagnut/autobeast/blob/194c6fc52a08bf2d6cbac20aafe1a47f7bc250c3/images/Kakegi_Grove.png
+Karnath Mines https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png
 Kraken
 Kraken Isle
 Linwood 
