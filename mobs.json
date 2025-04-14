@@ -258,7 +258,7 @@
         "Capturable": "Yes",
         "Location": "Bitryn",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Carpenter Ant": {
         "Level": "13",
@@ -267,7 +267,7 @@
         "Capturable": "Yes",
         "Location": "Bitryn",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Dragonfly": {
         "Level": "11",
@@ -276,7 +276,7 @@
         "Capturable": "Yes",
         "Location": "Bitryn",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Living Sap": {
         "Level": "14",
@@ -295,7 +295,7 @@
         "Loot Drops": [
             "Jar of Honey, Bloody Claw"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Marauding Bear (MB)": {
         "Level": "13",
@@ -306,7 +306,7 @@
         "Loot Drops": [
             "Bearskin Cloak"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Regal Buck": {
         "Level": "12",
@@ -315,7 +315,7 @@
         "Capturable": "Yes",
         "Location": "Bitryn",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Wicked Tree": {
         "Level": "12",
@@ -324,7 +324,7 @@
         "Capturable": "No",
         "Location": "Bitryn",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
     "Black Caiman": {
         "Level": "4",
@@ -333,7 +333,7 @@
         "Capturable": "Yes",
         "Location": "Canopia Forest",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Bleackweave Arachnid": {
         "Level": "6",
@@ -342,7 +342,7 @@
         "Capturable": "Yes",
         "Location": "Canopia Forest",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Bullfrog": {
         "Level": "5",
@@ -353,7 +353,7 @@
         "Loot Drops": [
             "Frog Juice Frog Legs Prince's Letter"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "Ancient Stone Guardian": {
         "Level": null,
@@ -396,7 +396,7 @@
         "Loot Drops": [
             "Foresters Axe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Canopia Foreman": {
         "Level": "12",
@@ -407,7 +407,7 @@
         "Loot Drops": [
             "Foremans Hammer"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Canopia Logger": {
         "Level": "8",
@@ -418,7 +418,7 @@
         "Loot Drops": [
             "Foresters Axe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Canopia Operator": {
         "Level": "10",
@@ -429,7 +429,7 @@
         "Loot Drops": [
             "Foresters Axe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Copperhead": {
         "Level": "8",
@@ -440,7 +440,7 @@
         "Loot Drops": [
             "Snake Skin Cap"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Forest Bandit": {
         "Level": "5",
@@ -451,7 +451,7 @@
         "Loot Drops": [
             "Rusty Dagger Rations, Topaz Potion?"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "Forest Witch (MB)": {
         "Level": "12",
@@ -462,7 +462,7 @@
         "Loot Drops": [
             "Forest Cloak"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Frenzied Treant": {
         "Level": "9",
@@ -471,7 +471,7 @@
         "Capturable": "No",
         "Location": "Canopia Forest",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Frog": {
         "Level": "4",
@@ -482,7 +482,7 @@
         "Loot Drops": [
             "Frog Juice Frog Legs Prince's Letter"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "Hawk": {
         "Level": "8",
@@ -493,7 +493,7 @@
         "Loot Drops": [
             "Gold: 30-40"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Head Foreman (MB)": {
         "Level": "14",
@@ -504,7 +504,7 @@
         "Loot Drops": [
             "Foremans Hammer"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Meadow Fox": {
         "Level": "7",
@@ -515,7 +515,7 @@
         "Loot Drops": [
             "Gold: 20-30"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Mosquito": {
         "Level": "3",
@@ -526,7 +526,7 @@
         "Loot Drops": [
             "Pointy Stinger"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "Rockhide Catfish": {
         "Level": "9",
@@ -535,7 +535,7 @@
         "Capturable": "Yes",
         "Location": "Canopia Forest",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Snail": {
         "Level": "7",
@@ -544,7 +544,7 @@
         "Capturable": "Yes",
         "Location": "Canopia Forest",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Snake": {
         "Level": "4",
@@ -555,7 +555,7 @@
         "Loot Drops": [
             "Snake Skin Cap Venom Gland"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "Treant Elder (MB)": {
         "Level": "",
@@ -566,7 +566,7 @@
         "Loot Drops": [
             "Elder Staff"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Treant Hierarch": {
         "Level": "12",
@@ -575,7 +575,7 @@
         "Capturable": "No",
         "Location": "Canopia Forest",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Wild Hunter": {
         "Level": "5",
@@ -586,7 +586,7 @@
         "Loot Drops": [
             "Topaz Potion,"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Archfiend (OAD)": {
         "Level": "",
@@ -597,7 +597,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Charmtress": {
         "Level": "",
@@ -608,7 +608,7 @@
         "Loot Drops": [
             "Void Staff"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Dark Elemental (B)": {
         "Level": "",
@@ -619,7 +619,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Dracokin": {
         "Level": "25",
@@ -630,7 +630,7 @@
         "Loot Drops": [
             "Dracokin Skins"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Dreadbeast": {
         "Level": "",
@@ -641,7 +641,7 @@
         "Loot Drops": [
             "Dreadfang"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Frigid Elemental (B)": {
         "Level": "",
@@ -652,7 +652,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Organic Elemental (B)": {
         "Level": "",
@@ -663,7 +663,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Static Elemental (B)": {
         "Level": "",
@@ -674,7 +674,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Sweltry Elemental (B)": {
         "Level": "",
@@ -685,7 +685,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Vila Sprout": {
         "Level": "",
@@ -694,7 +694,7 @@
         "Capturable": "No",
         "Location": "Dreadlands",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Vila Trap": {
         "Level": "",
@@ -703,7 +703,7 @@
         "Capturable": "No",
         "Location": "Dreadlands",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Void Elemental": {
         "Level": "",
@@ -714,7 +714,7 @@
         "Loot Drops": [
             "Onyx Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
     "Cave Spider": {
         "Level": "22",
@@ -725,7 +725,7 @@
         "Loot Drops": [
             "Spider Gland"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Crazed Miner": {
         "Level": "22",
@@ -734,7 +734,7 @@
         "Capturable": "No",
         "Location": "Dwarven Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Dwarven Berserker": {
         "Level": "23",
@@ -745,7 +745,7 @@
         "Loot Drops": [
             "Mithril Double Axe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Dwarven Brigand": {
         "Level": "23",
@@ -756,7 +756,7 @@
         "Loot Drops": [
             "Mithril Dagger"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Dwarven Ninja": {
         "Level": "24",
@@ -767,7 +767,7 @@
         "Loot Drops": [
             "Mithril Staff"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Gold Hoarder (MB)": {
         "Level": "",
@@ -778,7 +778,7 @@
         "Loot Drops": [
             "Golden Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "King Scorpion": {
         "Level": "24",
@@ -789,7 +789,7 @@
         "Loot Drops": [
             "Kings Stinger"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Orishinium Ore Deposit (MB)": {
         "Level": "",
@@ -800,7 +800,7 @@
         "Loot Drops": [
             "Orshinium Ore (converts to Emerald, Ruby, Sapphire, Diamond, Coal)"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Queen Scorpion (MB)": {
         "Level": "",
@@ -811,7 +811,7 @@
         "Loot Drops": [
             "Skorpius Mantle"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1d86c97cfe889063ddfc019b9330ef801b038155/images/Dwarven_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
     "Angry Poltergeist": {
         "Level": "13",
@@ -820,7 +820,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Awakened Corpse": {
         "Level": "12",
@@ -829,7 +829,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Ghostly Child": {
         "Level": "10",
@@ -838,7 +838,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Josephine Speilent (MB)": {
         "Level": "",
@@ -847,7 +847,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Moldy Skeleton": {
         "Level": "12",
@@ -856,7 +856,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Old Auntie Bettina (MB)": {
         "Level": "12",
@@ -865,7 +865,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Ragged Corpse": {
         "Level": "",
@@ -874,7 +874,7 @@
         "Capturable": "",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Raven": {
         "Level": "11",
@@ -883,7 +883,7 @@
         "Capturable": "Yes",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "The Wizened Old Man (MB?)": {
         "Level": "10",
@@ -894,7 +894,7 @@
         "Loot Drops": [
             "Yellow Slime"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Undertaker (B?)": {
         "Level": "",
@@ -905,7 +905,7 @@
         "Loot Drops": [
             "Starlight Spade, Starlight Cloak"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Wandering Spirit": {
         "Level": "11",
@@ -914,7 +914,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Wil-o-the-wisp": {
         "Level": "14",
@@ -923,7 +923,7 @@
         "Capturable": "No",
         "Location": "Forgotten Cemetary",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/3b3a67991de1fa193e695ad754edbfe9621dd505/images/Forgotten_Cemetary.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
     "Beavox": {
         "Level": "8",
@@ -932,7 +932,7 @@
         "Capturable": "Yes",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Beetle": {
         "Level": " ?",
@@ -941,7 +941,7 @@
         "Capturable": " ?",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Dark Druid (MB)": {
         "Level": "12",
@@ -952,7 +952,7 @@
         "Loot Drops": [
             "Vulkrow Claws"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Equilax": {
         "Level": "6",
@@ -961,7 +961,7 @@
         "Capturable": "Yes",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Forest Troll": {
         "Level": "12",
@@ -970,7 +970,7 @@
         "Capturable": "No",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Wallabear": {
         "Level": "8",
@@ -979,7 +979,7 @@
         "Capturable": "Yes",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Yakten": {
         "Level": "9",
@@ -988,7 +988,7 @@
         "Capturable": "Yes",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Zebraroo": {
         "Level": "7",
@@ -997,7 +997,7 @@
         "Capturable": "Yes",
         "Location": "Grotesque Garden",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/e863a19082b271e7095056c53bba40e13ca45860/images/Grotesque%20Garden.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
     "Wild Hunter (MB)": {
         "Level": "5(?)",
@@ -1008,14 +1008,14 @@
         "Loot Drops": [
             "Sturdy Plate?"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "Black Badger": {
         "Level": "17",
         "Type": "Animal",
         "Divinity": "Fire",
         "Capturable": "Yes",
-        "Location": "Kakegi Grove",
+        "Location": "Kageti Grove",
         "Loot Drops": [
             "Badgers Hood"
         ]
@@ -1025,15 +1025,15 @@
         "Type": "Animal",
         "Divinity": "Night",
         "Capturable": "Yes",
-        "Location": "Kakegi Grove",
+        "Location": "Kageti Grove",
         "Loot Drops": null
     },
-    "Kakegi Crow": {
+    "Kageti Crow": {
         "Level": "13",
         "Type": "Animal",
         "Divinity": "Lightning",
         "Capturable": "Yes",
-        "Location": "Kakegi Grove",
+        "Location": "Kageti Grove",
         "Loot Drops": null
     },
     "Luna (MB)": {
@@ -1041,7 +1041,7 @@
         "Type": "",
         "Divinity": "",
         "Capturable": "No",
-        "Location": "Kakegi Grove",
+        "Location": "Kageti Grove",
         "Loot Drops": [
             "Ivory Nunchaku"
         ]
@@ -1051,7 +1051,7 @@
         "Type": "",
         "Divinity": "",
         "Capturable": "No",
-        "Location": "Kakegi Grove",
+        "Location": "Kageti Grove",
         "Loot Drops": [
             "Shinobi Shozoku"
         ]
@@ -1061,7 +1061,7 @@
         "Type": "Animal",
         "Divinity": "Ice",
         "Capturable": "Yes",
-        "Location": "Kakegi Grove",
+        "Location": "Kageti Grove",
         "Loot Drops": [
             "Feral War Blade"
         ]
@@ -1073,7 +1073,7 @@
         "Capturable": "No",
         "Location": "Karnath Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Defiled Essence": {
         "Level": "20",
@@ -1082,7 +1082,7 @@
         "Capturable": "No",
         "Location": "Karnath Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Deformed Miner": {
         "Level": "20",
@@ -1093,7 +1093,7 @@
         "Loot Drops": [
             "Mining Pick, Lantern, Hunk of Dirty Rock, Rune Orb"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Drudge": {
         "Level": "20",
@@ -1102,7 +1102,7 @@
         "Capturable": "No",
         "Location": "Karnath Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Essence of the Deep (B)": {
         "Level": "",
@@ -1113,7 +1113,7 @@
         "Loot Drops": [
             "Mantle of the Deep, Stone Saber"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Noxious Spectre": {
         "Level": "22",
@@ -1122,7 +1122,7 @@
         "Capturable": "No",
         "Location": "Karnath Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Phantom Foreman (MB)": {
         "Level": "22",
@@ -1133,7 +1133,7 @@
         "Loot Drops": [
             "Mining Pick"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Shadow Skeleton": {
         "Level": "18",
@@ -1142,7 +1142,7 @@
         "Capturable": "No",
         "Location": "Karnath Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Skeletal Remains": {
         "Level": "22",
@@ -1151,7 +1151,7 @@
         "Capturable": "No",
         "Location": "Karnath Mines",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b04d24039fd84cc54212718d58996c808d6c533d/images/Karnath_Mines.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
     "Corrupted Guard": {
         "Level": "18",
@@ -1160,7 +1160,7 @@
         "Capturable": "No",
         "Location": "Linwood",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/d3defd0ae020aab0629610effcd0d7b887d83a7b/images/Linwood.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Linwood.png"
     },
     "Ringleader (B)": {
         "Level": "",
@@ -1171,7 +1171,7 @@
         "Loot Drops": [
             "Glowing Emerald Dagger,"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Linwood_Sewers.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Linwood_Sewers.png"
     },
     "Shadow Assassin": {
         "Level": "20",
@@ -1180,9 +1180,9 @@
         "Capturable": "No",
         "Location": "Linwood Sewers",
         "Loot Drops": [
-            "Shadow Sword"
+            "Shadow Sword, Mort's Money"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Linwood_Sewers.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Linwood_Sewers.png"
     },
     "Eagle": {
         "Level": "22",
@@ -1193,7 +1193,7 @@
         "Loot Drops": [
             "Eagle Feather, Eagle Talons"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/d8842d26683e97c900876578b91212d2103157f7/images/Mt.%20Athemos.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Mt.%20Athemos.png"
     },
     "Jackal": {
         "Level": "20",
@@ -1204,7 +1204,7 @@
         "Loot Drops": [
             "Jackal Hide"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/d8842d26683e97c900876578b91212d2103157f7/images/Mt.%20Athemos.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Mt.%20Athemos.png"
     },
     "Mountain goat": {
         "Level": "19",
@@ -1215,7 +1215,7 @@
         "Loot Drops": [
             "Curled Horn, Goat Hoof, Bone Club"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/d8842d26683e97c900876578b91212d2103157f7/images/Mt.%20Athemos.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Mt.%20Athemos.png"
     },
     "Mountain Trapper": {
         "Level": "22",
@@ -1226,7 +1226,7 @@
         "Loot Drops": [
             "Leopard Pelt"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/d8842d26683e97c900876578b91212d2103157f7/images/Mt.%20Athemos.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Mt.%20Athemos.png"
     },
     "Snow leopard": {
         "Level": "21",
@@ -1237,7 +1237,7 @@
         "Loot Drops": [
             "Leopard Pelt"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/d8842d26683e97c900876578b91212d2103157f7/images/Mt.%20Athemos.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Mt.%20Athemos.png"
     },
     "Bandit Leader (MB)": {
         "Level": "",
@@ -1248,7 +1248,7 @@
         "Loot Drops": [
             "Gems"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Cusith": {
         "Level": "24",
@@ -1257,7 +1257,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Grassland Lion": {
         "Level": "24",
@@ -1266,7 +1266,7 @@
         "Capturable": "Yes",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Haltija": {
         "Level": "23",
@@ -1275,7 +1275,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "King Cobra": {
         "Level": "23",
@@ -1284,7 +1284,7 @@
         "Capturable": "Yes",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Piranha": {
         "Level": "24",
@@ -1293,7 +1293,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Puca": {
         "Level": "24",
@@ -1302,7 +1302,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "River Shark (MB)": {
         "Level": "25",
@@ -1313,7 +1313,7 @@
         "Loot Drops": [
             "Shark Fin Skin"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "River Turtle": {
         "Level": "23",
@@ -1324,7 +1324,7 @@
         "Loot Drops": [
             "Turtle Shield"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "School of Piranhas": {
         "Level": "24",
@@ -1333,7 +1333,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Spectral Lion (MB)": {
         "Level": "25",
@@ -1344,7 +1344,7 @@
         "Loot Drops": [
             "Blue Spectral Robe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Trail Bandits": {
         "Level": "25",
@@ -1353,7 +1353,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Yeren": {
         "Level": "23",
@@ -1362,7 +1362,7 @@
         "Capturable": "No",
         "Location": "Northern Rock Plateau",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/260da17655d4c7bc3cb34c77c14cee52a112a021/images/Northern%20Rock%20Plateau.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
     "Marauder": {
         "Level": "21",
@@ -1371,7 +1371,7 @@
         "Capturable": "No",
         "Location": "Raider's Encampment",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
     "Raider Archer": {
         "Level": "20",
@@ -1380,7 +1380,7 @@
         "Capturable": "No",
         "Location": "Raider's Encampment",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
     "Raider Chief (B)": {
         "Level": "",
@@ -1391,7 +1391,7 @@
         "Loot Drops": [
             "Maul of Wrecking"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
     "Raider Longbowman": {
         "Level": "19",
@@ -1400,7 +1400,7 @@
         "Capturable": "No",
         "Location": "Raider's Encampment",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
     "Raider Pioneer (MB)": {
         "Level": "22",
@@ -1411,7 +1411,7 @@
         "Loot Drops": [
             "Raider Plight"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
     "Vicious Raider Husky": {
         "Level": "18",
@@ -1420,7 +1420,7 @@
         "Capturable": "No",
         "Location": "Raider's Encampment",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/f939393943f088b742d737310cd20632e5408d37/images/Raider's%20Encampment.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
     "Highway Man": {
         "Level": "20",
@@ -1487,7 +1487,7 @@
         "Loot Drops": [
             "War Scourge"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Arcane Director (OAD?)": {
         "Level": "",
@@ -1498,7 +1498,7 @@
         "Loot Drops": [
             "Arcane Chains"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Arcane Foreman (OAD?)": {
         "Level": "",
@@ -1509,7 +1509,7 @@
         "Loot Drops": [
             "Luminous Helmet"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Arcane Slave (Blue)": {
         "Level": "24",
@@ -1520,7 +1520,7 @@
         "Loot Drops": [
             "Arcane Sword"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Arcane Slave (Green)": {
         "Level": "",
@@ -1531,7 +1531,7 @@
         "Loot Drops": [
             "Arcane Sword"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Arcane Slave (Purple)": {
         "Level": "",
@@ -1542,7 +1542,7 @@
         "Loot Drops": [
             "Arcane Sword"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Crazed Furnace Worker (MB)": {
         "Level": "25",
@@ -1553,7 +1553,7 @@
         "Loot Drops": [
             "Incinerating Knife"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Dread Rodent": {
         "Level": "24",
@@ -1564,7 +1564,7 @@
         "Loot Drops": [
             "Dread Maul"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Mana Demon": {
         "Level": "24",
@@ -1573,7 +1573,7 @@
         "Capturable": "No",
         "Location": "Refinery",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Mana Devil (OAD)": {
         "Level": "25",
@@ -1584,7 +1584,7 @@
         "Loot Drops": [
             "Devils Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Mana Infused Psychotic": {
         "Level": "24",
@@ -1593,7 +1593,7 @@
         "Capturable": "No",
         "Location": "Refinery",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Refinery Controller (B)": {
         "Level": "",
@@ -1604,7 +1604,7 @@
         "Loot Drops": [
             "Emeral Axe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Refinery Overseer (B)": {
         "Level": "",
@@ -1615,7 +1615,7 @@
         "Loot Drops": [
             "Ruby Axe"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Refinery Worker": {
         "Level": "24",
@@ -1626,7 +1626,7 @@
         "Loot Drops": [
             "Harp of Discord"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Spectral Manifestation": {
         "Level": "25",
@@ -1635,7 +1635,7 @@
         "Capturable": "No",
         "Location": "Refinery",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/7173b34e527f8d270db7c33ddd4dbc50fd44e5c4/images/Refinery.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
     "Nezkar Varsee (MB)": {
         "Level": "7",
@@ -1646,7 +1646,7 @@
         "Loot Drops": [
             "Wicked Staff"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Journeymans.png"
     },
     "River Troll": {
         "Level": "6",
@@ -1675,7 +1675,7 @@
         "Capturable": "No",
         "Location": "Ruined Watchtower",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Death Knight": {
         "Level": "22",
@@ -1686,7 +1686,7 @@
         "Loot Drops": [
             "Bladed Staff"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Deranged Remnant": {
         "Level": "22",
@@ -1697,7 +1697,7 @@
         "Loot Drops": [
             "Bladed Staff"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Fallen Colonel (MB)": {
         "Level": "",
@@ -1708,7 +1708,7 @@
         "Loot Drops": [
             "Gilded Plate"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Imperial Healer": {
         "Level": "22",
@@ -1717,7 +1717,7 @@
         "Capturable": "No",
         "Location": "Ruined Watchtower",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Ranged Infantry": {
         "Level": "23",
@@ -1726,7 +1726,7 @@
         "Capturable": "No",
         "Location": "Ruined Watchtower",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Void Recluse": {
         "Level": "23",
@@ -1735,7 +1735,7 @@
         "Capturable": "Yes",
         "Location": "Ruined Watchtower",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Walker Guardian": {
         "Level": "23",
@@ -1746,7 +1746,7 @@
         "Loot Drops": [
             "Ethereal Flamberg"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1755a70e2617ed35c559bfe30a1b76e17ebd2f20/images/Ruined_Watchtower.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
     "Bear": {
         "Level": "17",
@@ -2001,7 +2001,7 @@
         "Loot Drops": [
             "Bone Bow"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
     "Mort Wraith (MB)": {
         "Level": "25",
@@ -2012,7 +2012,7 @@
         "Loot Drops": [
             "Spectral Scythe, Bone Shield, Spectral Stone"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
     "Risen": {
         "Level": "23",
@@ -2023,7 +2023,7 @@
         "Loot Drops": [
             "Bone Staff, Bone Shield"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
     "Rotting Dead": {
         "Level": "24",
@@ -2034,7 +2034,7 @@
         "Loot Drops": [
             "Bone Dagger, Rotten Flesh"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
     "Skeletal Beast": {
         "Level": "22",
@@ -2045,7 +2045,7 @@
         "Loot Drops": [
             "Bone Claws"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
     "Void Imp (MB)": {
         "Level": "25",
@@ -2056,7 +2056,7 @@
         "Loot Drops": [
             "Void Cloak"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/1c0426b1ac9f8979776e37d17e362c7c9b2108b1/images/Wiken%20Graveyard.jpg"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
     "Pirate Ship": {
         "Level": "25",
@@ -2067,7 +2067,7 @@
         "Loot Drops": [
             "Silver Coin"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Giant Squid": {
         "Level": "22",
@@ -2078,7 +2078,7 @@
         "Loot Drops": [
             "Tentacles, Healing Water, Magical Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Giant Octopus": {
         "Level": "22",
@@ -2089,7 +2089,7 @@
         "Loot Drops": [
             "Tentacles, Healing Water, Magical Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Mermaid": {
         "Level": "24",
@@ -2100,7 +2100,7 @@
         "Loot Drops": [
             "Sea Shells"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Sea Serpent": {
         "Level": "24",
@@ -2111,7 +2111,7 @@
         "Loot Drops": [
             "Serpent Remains, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Poltergeist": {
         "Level": "24",
@@ -2122,7 +2122,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Ghast": {
         "Level": "24",
@@ -2133,7 +2133,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Tyrant": {
         "Level": "25",
@@ -2144,7 +2144,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Specter": {
         "Level": "24",
@@ -2155,7 +2155,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Ghostly Helmswoman": {
         "Level": "24",
@@ -2166,7 +2166,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Enraged Phantom": {
         "Level": "24",
@@ -2177,7 +2177,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Pillager": {
         "Level": "22",
@@ -2188,7 +2188,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Deck Crew": {
         "Level": "20",
@@ -2209,7 +2209,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Plunderer": {
         "Level": "23",
@@ -2220,7 +2220,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Swashbuckler": {
         "Level": "24",
@@ -2231,7 +2231,7 @@
         "Loot Drops": [
             "Gold Doubloon, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Pirate": {
         "Level": "25",
@@ -2242,7 +2242,7 @@
         "Loot Drops": [
             "Gold Doubloon"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Guard Dog": {
         "Level": "24",
@@ -2251,7 +2251,7 @@
         "Capturable": "Yes",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Maiden (MB)": {
         "Level": "25",
@@ -2262,7 +2262,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Foul (MB)": {
         "Level": "25",
@@ -2273,7 +2273,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Ice Princess (MB)": {
         "Level": "25",
@@ -2284,7 +2284,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Sanguine (MB)": {
         "Level": "25",
@@ -2295,7 +2295,7 @@
         "Loot Drops": [
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Gravedigger (MB)": {
         "Level": "22",
@@ -2306,7 +2306,7 @@
         "Loot Drops": [
             "Island Silk Gloves, Island Silk Boots"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Tainted Walker": {
         "Level": "21",
@@ -2315,7 +2315,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Crimson Axolotl": {
         "Level": "19",
@@ -2324,7 +2324,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Rabid Nutria": {
         "Level": "18",
@@ -2333,7 +2333,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Arapaima": {
         "Level": "21",
@@ -2342,7 +2342,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Red Swamp Crayfish": {
         "Level": "19",
@@ -2351,7 +2351,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Barbed-Tooth Leech": {
         "Level": "21",
@@ -2360,7 +2360,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Payara": {
         "Level": "21",
@@ -2369,7 +2369,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Swamp Bullfrog": {
         "Level": "21",
@@ -2378,7 +2378,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Bull Shark": {
         "Level": "22",
@@ -2387,7 +2387,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Dart Frog": {
         "Level": "22",
@@ -2396,7 +2396,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Great Egret": {
         "Level": "21",
@@ -2405,7 +2405,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Pale Sloth": {
         "Level": "22",
@@ -2414,7 +2414,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Armored Shell Snapper": {
         "Level": "22",
@@ -2423,7 +2423,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Platypus": {
         "Level": "20",
@@ -2432,7 +2432,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Diseased Capybara": {
         "Level": "21",
@@ -2441,7 +2441,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Spider Crab": {
         "Level": "23",
@@ -2450,7 +2450,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Rusalka": {
         "Level": "24",
@@ -2459,7 +2459,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Pygmy Hippo": {
         "Level": "21",
@@ -2468,7 +2468,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Pit Viper": {
         "Level": "21",
@@ -2477,7 +2477,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Sachamama (MB)": {
         "Level": "25",
@@ -2486,7 +2486,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Speckled Python": {
         "Level": "22",
@@ -2495,7 +2495,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Anaconda": {
         "Level": "23",
@@ -2504,7 +2504,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Razortail Hydra": {
         "Level": "24",
@@ -2513,7 +2513,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Spotted Jaguar": {
         "Level": "23",
@@ -2522,7 +2522,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Carrion Flies": {
         "Level": "20",
@@ -2531,7 +2531,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Lobizon": {
         "Level": "23",
@@ -2542,7 +2542,7 @@
         "Loot Drops": [
             "Knowledge of the Ancients, Pet Weapon - Razorpaw, Pet Weapon - Energia Rod, Pet Armor - Tinfoil Hat, Gold 100 - 160"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Mapinguari (MB)": {
         "Level": "25",
@@ -2551,7 +2551,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Savage Crocodile": {
         "Level": "24",
@@ -2560,7 +2560,7 @@
         "Capturable": "Yes",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Vodyanoy (MB)": {
         "Level": "25",
@@ -2569,7 +2569,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Abyssal Olm": {
         "Level": "24",
@@ -2578,7 +2578,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Anglerfish": {
         "Level": "22",
@@ -2587,7 +2587,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Abyssal Stingray": {
         "Level": "23",
@@ -2596,7 +2596,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Bunyip (MB)": {
         "Level": "25",
@@ -2605,7 +2605,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Caretaker of the First Spawn (OAD)": {
         "Level": "25",
@@ -2614,7 +2614,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Watcher of the First Spawn (OAD)": {
         "Level": "25",
@@ -2623,7 +2623,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Disciple of the First Spawn (OAD)": {
         "Level": "25",
@@ -2632,7 +2632,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Ancient Egg (OAD)": {
         "Level": "25",
@@ -2641,7 +2641,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Descendant of the First Spawn (OAD)": {
         "Level": "25",
@@ -2650,7 +2650,7 @@
         "Capturable": "No",
         "Location": "Ebonmurk",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/b09bd3041df94aecd5d62fbac66d609b832b00dd/images/Ebonmurk.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
     "Gunner": {
         "Level": "22",
@@ -2661,7 +2661,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Deckhand": {
         "Level": "18",
@@ -2672,7 +2672,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Sailor": {
         "Level": "19",
@@ -2683,7 +2683,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Mariner": {
         "Level": "21",
@@ -2694,7 +2694,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Seadog": {
         "Level": "20",
@@ -2705,7 +2705,7 @@
         "Loot Drops": [
             "Gold Doubloon, Coast Gold, Golden Lockbox,"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Manta Ray": {
         "Level": "20",
@@ -2716,7 +2716,7 @@
         "Loot Drops": [
             "Broken Stinger, Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Sword Fish": {
         "Level": "20",
@@ -2727,7 +2727,7 @@
         "Loot Drops": [
             "Uncooked Fish, Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Giant Alligator": {
         "Level": "21",
@@ -2738,7 +2738,7 @@
         "Loot Drops": [
             "Uncooked Fish, Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Mysterious Ocean Creature": {
         "Level": "22",
@@ -2749,7 +2749,7 @@
         "Loot Drops": [
             "Uncooked Fish, Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Great White Shark": {
         "Level": "23",
@@ -2760,7 +2760,7 @@
         "Loot Drops": [
             "Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Giant Whale": {
         "Level": "23",
@@ -2771,7 +2771,7 @@
         "Loot Drops": [
             "Uncooked Fish, Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Squid": {
         "Level": "22",
@@ -2782,7 +2782,7 @@
         "Loot Drops": [
             "Magical Water, Healing Water"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Noxious Pirate": {
         "Level": "25",
@@ -2793,7 +2793,7 @@
         "Loot Drops": [
             "Spindle, Mast Fragment"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Archaic Sylvan (MB)": {
         "Level": "21",
@@ -2802,7 +2802,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Siren (MB)": {
         "Level": "25",
@@ -2811,7 +2811,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Elna Crowley (MB)": {
         "Level": "25",
@@ -2820,7 +2820,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Lykai Allard (MB)": {
         "Level": "25",
@@ -2829,7 +2829,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Leviathan (MB)": {
         "Level": "25",
@@ -2838,7 +2838,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Sentient Barnacle (MB)": {
         "Level": "25",
@@ -2847,7 +2847,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Amelia Sasoo (B)": {
         "Level": "25",
@@ -2858,7 +2858,7 @@
         "Loot Drops": [
             "Silk Gloves"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Ururk Kuredall (B)": {
         "Level": "25",
@@ -2869,7 +2869,7 @@
         "Loot Drops": [
             "Silk Hauberk"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Farmaris Morcan (B)": {
         "Level": "25",
@@ -2880,7 +2880,7 @@
         "Loot Drops": [
             "Bone Rondel"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Uberto Hargrove (B)": {
         "Level": "25",
@@ -2891,7 +2891,7 @@
         "Loot Drops": [
             "Silk Mantle"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Captain Butcher (B)": {
         "Level": "25",
@@ -2900,7 +2900,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Phantom of Captain Butcher (B)": {
         "Level": "25",
@@ -2909,7 +2909,7 @@
         "Capturable": "No",
         "Location": "Kraken",
         "Loot Drops": null,
-        "Map": "https://github.com/scagnut/autobeast/blob/94b3e28b846b31f02eec6b8801ba3f2c0d709d6f/images/Kraken.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
     "Bandit Emissary (MB)": {
         "Level": "20",
@@ -2980,7 +2980,7 @@
         "Loot Drops": [
             "Blackweave Silk"
         ],
-        "Map": "https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png"
+        "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
     "Canny Tiger": {
         "Level": "16",
