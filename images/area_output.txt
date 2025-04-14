@@ -1,0 +1,44 @@
+Abandoned Camp
+Alderran Plains
+Ancient Temple
+Area
+Bitryn https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Bityrn.png
+Bityrn - Turenyara Border
+Canopia Forest https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Canopia_Forest.png
+Dougue Road
+Dreadlands https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Dreadlands.png
+Dusty Road
+Dwarven Mines
+Ebonmurk
+Excavation Site
+Farmland
+Forgotten Cemetary
+Grotesque Garden
+Journeymans Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
+Kageti Grove
+Karnath Mines
+Kraken
+Kraken Isle
+Linwood 
+Linwood Sewers https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Linwood_Sewers.png
+Mt. Athemos
+Northern Pass
+Northern Rock Plateau
+Old Carver Road
+Plains Road
+Raider's Encampment
+Raiders Road
+Raiders Vale
+Refinery
+River Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
+River Road/Journeymans Road https://github.com/scagnut/autobeast/blob/0107840f9898259eaab4527f1f47c0b026b06142/images/Journeymans.png
+Ruined Watchtower
+Sakuzin Underground
+Turenyara - North
+Turenyara Ant Hill
+Wasteland
+Wasteland/Linwood
+Wasteland/Wiken
+Wasteland/Wiken Graveyard
+Wastelands
+Wiken Graveyard
