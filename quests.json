@@ -1,1 +1,799 @@
-
+{
+  "Daily Quests": [
+    {
+      "quest_#": "707",
+      "quest_name": "Helping the Widow",
+      "lvl": "15",
+      "giver": "Troubled Widow",
+      "task": "Kill: 4 Angry Poltergeist, 4 Ghostly Child, 4 Wandering SpiritCollect: 2 Yellow Slime, 2 Red Slime, 2 Grave Dust",
+      "chain": "None",
+      "repeatable": "Yes",
+      "reward": "Exp: 200kGold:20001 Champion Mark"
+    },
+    {
+      "quest_#": "708",
+      "quest_name": "Helping the stoners",
+      "lvl": "15",
+      "giver": "Paranoid Stoner",
+      "task": "Collect: 3 Dried Pork, 3 Smoked Jerky, 2 Jar of Honey, 2 Raw Catfish, 3 Canopian Pie",
+      "chain": "None",
+      "repeatable": "Yes",
+      "reward": "Exp: 200kGold:20001 Champion Mark"
+    },
+    {
+      "quest_#": "709",
+      "quest_name": "Lost Wine",
+      "lvl": "15",
+      "giver": "Store Boy",
+      "task": "Collect: 3 Alderran Honey Wine",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold: 20001 Champion Mark"
+    },
+    {
+      "quest_#": "710",
+      "quest_name": "Potion Ingredients",
+      "lvl": "15",
+      "giver": "Snailmint Witch",
+      "task": "Kill: 3 Troll, 3 River TrollCollect: 3 Frog Juice, 3 Sweet Pollen",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold:20001 Champion Mark"
+    },
+    {
+      "quest_#": "712",
+      "quest_name": "New Adventures",
+      "lvl": "15",
+      "giver": "Ruben Rustblade",
+      "task": "Kill: 3 Canopia Logger, 2 Canopia Operator Collect: 2 Scrap Metal",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold: 20001 Champion Mark"
+    },
+    {
+      "quest_#": "713",
+      "quest_name": "Big Game Hunter",
+      "lvl": "15",
+      "giver": "Brock Grizzlies",
+      "task": "Kill: Black Badger, Muck Boar, Black Panther Cub, Tainted WolfCollect: 1 Black Pelt, 1 Boar Hide, 1 Bloody Claw, 1 Fur Patch",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold:20001 Champion Mark"
+    },
+    {
+      "quest_#": "711",
+      "quest_name": "Proof Of The Past",
+      "lvl": "15",
+      "giver": "Archaeologist Arthur",
+      "task": "Collect: 1 Pottery Shard",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold: 20001 Champion Mark"
+    },
+    {
+      "quest_#": "714",
+      "quest_name": "Silver in the mine",
+      "lvl": "15",
+      "giver": "Famous Jeweler",
+      "task": "Kill: 8 Plains Bandit Collect: 6 Silver Nugget",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold:20001 Champion Mark"
+    },
+    {
+      "quest_#": "715",
+      "quest_name": "Strange Devotion",
+      "lvl": "15",
+      "giver": "Concerned Priest",
+      "task": "Kill: 6 Cult Recruit Collect: 1 Tome of Natos",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200kGold:20001 Champion Mark"
+    }
+  ],
+  "Weekly Quests": [],
+  "Island of Knowledge Quests": [
+    {
+      "quest_#": "100",
+      "quest_name": "Gearing up for battle",
+      "lvl": "1",
+      "giver": "Old Wise Man",
+      "task": "Equip your armor",
+      "chain": "110",
+      "repeatable": "No",
+      "reward": "Exp: 200"
+    },
+    {
+      "quest_#": "110",
+      "quest_name": "Search for the ring",
+      "lvl": "1",
+      "giver": "Prior",
+      "task": "Collect: 1 Ring of Priors",
+      "chain": "104",
+      "repeatable": "No",
+      "reward": "None"
+    },
+    {
+      "quest_#": "104",
+      "quest_name": "Battle Training",
+      "lvl": "1",
+      "giver": "Prior",
+      "task": "Kill: 2 Divinity Dummy",
+      "chain": "107",
+      "repeatable": "No",
+      "reward": "Exp: 1100 Gold: 50"
+    },
+    {
+      "quest_#": "107",
+      "quest_name": "Lets head to Seamoor",
+      "lvl": "2",
+      "giver": "Old Wise Man",
+      "task": "Collect: RopeFind: Captain Jack",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 200 Item: Select Item"
+    }
+  ],
+  "Seamoor Quests": [
+    {
+      "quest_#": "22",
+      "quest_name": "New Recruit",
+      "lvl": "1",
+      "giver": "Ciruin Recruiter",
+      "task": "Find: City Guard",
+      "chain": "2",
+      "repeatable": "No",
+      "reward": "Exp: 700 Gold: 200"
+    },
+    {
+      "quest_#": "2",
+      "quest_name": "Arena Practice",
+      "lvl": "1",
+      "giver": "City Guard",
+      "task": "Kill: 1 Training Dummy, 1 Crab, 1 Meadow Deer",
+      "chain": "23",
+      "repeatable": "No",
+      "reward": "Exp: 850 Gold: 400"
+    },
+    {
+      "quest_#": "23",
+      "quest_name": "Helping Citizens",
+      "lvl": "2",
+      "giver": "City Guard",
+      "task": "Deliver: 3 Azure Potions",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "Exp: 1000 Gold: 250"
+    },
+    {
+      "quest_#": "1",
+      "quest_name": "A quick errand",
+      "lvl": "2",
+      "giver": "Evelyn",
+      "task": "Collect: 3 Wine",
+      "chain": "21",
+      "repeatable": "No",
+      "reward": "Exp: 850 Gold: 100"
+    },
+    {
+      "quest_#": "21",
+      "quest_name": "Find my Prince!",
+      "lvl": "2",
+      "giver": "Evelyn",
+      "task": "Collect: 1 Prince's Letter",
+      "chain": "24",
+      "repeatable": "No",
+      "reward": "Exp: 2000 Gold: 200 Item: Select Item"
+    },
+    {
+      "quest_#": "24",
+      "quest_name": "Find my Prince!",
+      "lvl": "2",
+      "giver": "Evelyn",
+      "task": "Deliver: 1 Letter of Recommendation",
+      "chain": "5",
+      "repeatable": "No",
+      "reward": "Exp: 1900 Gold: 300"
+    },
+    {
+      "quest_#": "5",
+      "quest_name": "Proving Grounds",
+      "lvl": "3",
+      "giver": "City Guard",
+      "task": "Slay: 1 Frog, 1 Snake, 1 Mosquito, 1 Black Caiman, 1 Bullfrog",
+      "chain": "600",
+      "repeatable": "No",
+      "reward": "Exp: 2800 Gold: 550 Item: Select Item"
+    },
+    {
+      "quest_#": "600",
+      "quest_name": "Protect This City!",
+      "lvl": "3",
+      "giver": "City Guard",
+      "task": "Kill: 2 Troll, 2 River Troll, 1 Nezkar Varsee",
+      "chain": "6",
+      "repeatable": "No",
+      "reward": "Exp: 15k Gold: 900 Item: Select Item"
+    },
+    {
+      "quest_#": "6",
+      "quest_name": "You are ready!",
+      "lvl": "8",
+      "giver": "City Guard",
+      "task": "Deliver: Seamoor Orders",
+      "chain": "??",
+      "repeatable": "No",
+      "reward": "Exp: 10k Gold: 700 Item: Recruit's Ring"
+    },
+    {
+      "quest_#": "0464",
+      "quest_name": "Garden Corruption",
+      "lvl": "??",
+      "giver": "Naturalist Filzan",
+      "task": "Kill: 4 Wallabear, 4 Yakten, 4 Beetle",
+      "chain": "463",
+      "repeatable": "No",
+      "reward": "24k Exp, 1000 Gold"
+    },
+    {
+      "quest_#": "0463",
+      "quest_name": "Garden Corruption",
+      "lvl": "??",
+      "giver": "Naturalist Filzan",
+      "task": "Kill: Dark Druid",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "32k Exp, 890 Gold"
+    }
+  ],
+  "Canopia Quests": [],
+  "Canopia Logging Camp Quests": [],
+  "Canopia Forest Quests": [],
+  "Kakegi Grove Quests": [],
+  "Bityrn Quests": [],
+  "Forgotten Cemetery": [],
+  "Turenyara Quests": [],
+  "Seta Quests": [],
+  "Northern Wasteland Quests": [],
+  "Southern Wastelands Quests": [],
+  "Ruined Guard Tower Quests": [],
+  "Linwood Quests": [],
+  "Linwood Sewers Quests": [],
+  "Karnath Mines Quests": [],
+  "Dwarven Mines Quests": [],
+  "Drevlar Quests": [],
+  "Wiken Quests": [],
+  "Raider's Vale Quests": [],
+  "Ruined Watchtower Quests": [],
+  "Arkanmaw Quests": [],
+  "Refinery Quests": [],
+  "Fort Huldar Quests": [],
+  "Dreadlands Quests": [],
+  "Alderra City Quests": [],
+  "Forgotten Coast Quest": [
+    {
+      "quest_#": "2100",
+      "quest_name": "Sailors Ahoy",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Kill: 15 Deckhand",
+      "chain": "2101",
+      "repeatable": "No",
+      "reward": "Exp: 400kGold: 2200"
+    },
+    {
+      "quest_#": "2101",
+      "quest_name": "Dog Days",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Kill: 9 Seadog, 9 SailorCollect: 5 Coast Gold",
+      "chain": "2102",
+      "repeatable": "No",
+      "reward": "Exp: 400kGold: 3000"
+    },
+    {
+      "quest_#": "2102",
+      "quest_name": "Thieving Gunners",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Kill: 20 GunnerCollect: 5 Coast Gold",
+      "chain": "2103",
+      "repeatable": "No",
+      "reward": "Exp: 450kGold: 3500"
+    },
+    {
+      "quest_#": "2103",
+      "quest_name": "Missing Gold",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Kill: 22 MarinerCollect: 5 Coast Gold",
+      "chain": "2104",
+      "repeatable": "No",
+      "reward": "Exp: 468kGold: 3000"
+    },
+    {
+      "quest_#": "2104",
+      "quest_name": "A Killing Field",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Kill: 5 Deckhand, 5 Seadog, 5 Sailor, 5 Gunner, 5 Mariner",
+      "chain": "2105",
+      "repeatable": "No",
+      "reward": "Exp: 875kGold: 3000"
+    },
+    {
+      "quest_#": "2105",
+      "quest_name": "Missing Gold",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Collect: 25 Coast Gold",
+      "chain": "2107",
+      "repeatable": "No",
+      "reward": "Exp: 700kGold: 4000"
+    },
+    {
+      "quest_#": "2106",
+      "quest_name": "Preparing for Voyage",
+      "lvl": "18",
+      "giver": "Old Salty Sailor",
+      "task": "Collect: 1 Scroll of Soulbind, 1 Basic Gold Earring, 10 Gold Doubloon, 5 Coast Gold",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "Exp: 1milGold: 8000Pirates Earring*"
+    },
+    {
+      "quest_#": "2107",
+      "quest_name": "Disappearing Workers",
+      "lvl": "??",
+      "giver": "Quartermaster",
+      "task": "Kill: Archaic SylvanCollect: 1 Gold Doubloon",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "Exp: 1milGold: 2000Item Selection"
+    }
+  ],
+  "Kraken Isle Quest": [
+    {
+      "quest_#": "2004",
+      "quest_name": "So Many Undead",
+      "lvl": "23",
+      "giver": "Brother Horus",
+      "task": "Kill: 8 Ghast, 8 Poltergeist, 8 Specter, 8 Tyrant",
+      "chain": "2000, 2001, 2003",
+      "repeatable": "No",
+      "reward": "Exp: 2milGold: 3500"
+    },
+    {
+      "quest_#": "2000",
+      "quest_name": "Specters Among Us",
+      "lvl": "23",
+      "giver": "Sister Josephine",
+      "task": "Kill: 25 SpecterCollect: 5 Spectral Ooze",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 2milGold:3500"
+    },
+    {
+      "quest_#": "2001",
+      "quest_name": "Ghastly Demise",
+      "lvl": "23",
+      "giver": "Sister Clair",
+      "task": "Kill: 26 GhastCollect: 5 Spectral Ooze",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 2milGold: 3500"
+    },
+    {
+      "quest_#": "2003",
+      "quest_name": "Tyrant Problems",
+      "lvl": "23",
+      "giver": "Brother Maliki",
+      "task": "Kill: 26 TyrantCollect: 5 Spectral Ooze",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 2mil ExpGold: 3500"
+    },
+    {
+      "quest_#": "2005",
+      "quest_name": "Final Rest",
+      "lvl": "24",
+      "giver": "Bishop Honabus",
+      "task": "Kill: Foul, Ice Princess, Maiden, Sanguine",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 3milGold: 2500 GoldSelect Item"
+    },
+    {
+      "quest_#": "2006",
+      "quest_name": "Sea Monsters",
+      "lvl": "21",
+      "giver": "Gibbit Grog",
+      "task": "Kill: 8 Giant Octopus, 8 Mermaid, 8 Pirate Ship, 8 Sea SerpentCollect: 3 Tentacles, 3 Sea Shells, 3 Silver Coin, 3 Serpent Remains",
+      "chain": "2007",
+      "repeatable": "No",
+      "reward": "Exp: 1.5milGold: 2500"
+    },
+    {
+      "quest_#": "2007",
+      "quest_name": "Sirens Melody",
+      "lvl": "23",
+      "giver": "Gibbit Grog",
+      "task": "Kill: 1 Siren",
+      "chain": "None",
+      "repeatable": "Yes",
+      "reward": "Exp: 2milGold: 2500"
+    },
+    {
+      "quest_#": "2008",
+      "quest_name": "Nyle's Shiny Problem",
+      "lvl": "23",
+      "giver": "Nyle Jolly Reed",
+      "task": "Kill: 25 Buccaneer, Collect: 5 Gold Doubloon",
+      "chain": "2010",
+      "repeatable": "No",
+      "reward": "1.5mil Exp, 4000 Gold"
+    },
+    {
+      "quest_#": "2009",
+      "quest_name": "Missing Gold",
+      "lvl": "24",
+      "giver": "Derland Stryker",
+      "task": "Collect: 50 Gold Doubloon",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Unknown"
+    },
+    {
+      "quest_#": "2010",
+      "quest_name": "Missing Rations",
+      "lvl": "23",
+      "giver": "Yedda Alby",
+      "task": "Kill: 25 Pillager",
+      "chain": "2011",
+      "repeatable": "No",
+      "reward": "2 mil Exp, 4000 Gold"
+    },
+    {
+      "quest_#": "2011",
+      "quest_name": "Stoken Potions",
+      "lvl": "24",
+      "giver": "Jesse Umbri",
+      "task": "Kill: 25 Plunderer",
+      "chain": "2012",
+      "repeatable": "No",
+      "reward": "2 mil Exp, 4000 Gold"
+    },
+    {
+      "quest_#": "2012",
+      "quest_name": "Idle Armors",
+      "lvl": "24",
+      "giver": "Olin Cromwell",
+      "task": "Kill: 30 Pirate",
+      "chain": "2013",
+      "repeatable": "No",
+      "reward": "2.5mil Exp, 4500 Gold"
+    },
+    {
+      "quest_#": "2013",
+      "quest_name": "Pirate Problems",
+      "lvl": "24",
+      "giver": "Olin Cromwell",
+      "task": "Kill: 30 Pirate",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "2000 Gold"
+    },
+    {
+      "quest_#": "2030",
+      "quest_name": "Fishing Manta Ray",
+      "lvl": "??",
+      "giver": "Radnor Hackney",
+      "task": "Kill: 20 Manta Ray",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "700k Exp, 2500 Gold"
+    },
+    {
+      "quest_#": "2031",
+      "quest_name": "Fishing Sword Fish",
+      "lvl": "??",
+      "giver": "Theodor Synth",
+      "task": "Kill: 20 Sword Fish",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "700k Exp, 2500 Gold"
+    },
+    {
+      "quest_#": "2032",
+      "quest_name": "Fishing Giant Alligator",
+      "lvl": "??",
+      "giver": "Tamson Emmett",
+      "task": "Kill: 25 Giant Alligator, Collect: 7 Uncooked Fish",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "1Mil Exp, 2700 Gold"
+    },
+    {
+      "quest_#": "2040",
+      "quest_name": "Fishing Squid",
+      "lvl": "??",
+      "giver": "Garman Eastoft",
+      "task": "Kill: 25 Squid, Collect: 7 Tentacles",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "700k Exp, 3000 Gold"
+    },
+    {
+      "quest_#": "2041",
+      "quest_name": "Fishing Giant Squid",
+      "lvl": "??",
+      "giver": "Ewert Rudge",
+      "task": "Kill: 25 Giant Squid, Collect: 7 Tentacles",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "700k Exp, 3000 Gold"
+    },
+    {
+      "quest_#": "2042",
+      "quest_name": "Fishing Great White Shark",
+      "lvl": "??",
+      "giver": "Jennie Langley",
+      "task": "Kill: 24 Great White Shark",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "1Mil Exp, 3275 Gold"
+    },
+    {
+      "quest_#": "2050",
+      "quest_name": "Fishing Giant Whale",
+      "lvl": "??",
+      "giver": "Chloe Braxton",
+      "task": "Kill: 26 Giant Whale",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "1.125Mil Exp, 3300 Gold"
+    },
+    {
+      "quest_#": "2051",
+      "quest_name": "Fishing Mysterious Ocean Creature",
+      "lvl": "??",
+      "giver": "Quinton Driscoll",
+      "task": "Kill: 26 Mysterious Ocean Creature",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "1.35Mil Exp, 3500 Gold"
+    },
+    {
+      "quest_#": "2060",
+      "quest_name": "Stolen Crates",
+      "lvl": "22",
+      "giver": "Cecile Sisk",
+      "task": "Return Item: 8 Stolen Crates",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "2000 Gold"
+    },
+    {
+      "quest_#": "2061",
+      "quest_name": "Stolen Ship Deeds",
+      "lvl": "22",
+      "giver": "Cecile Sisk",
+      "task": "Return Item: 10 Ship Deeds",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "2000 Gold"
+    }
+  ],
+  "Ebonmurk": [
+    {
+      "quest_#": "11047",
+      "quest_name": "Underwater Swamp Basics",
+      "lvl": "18",
+      "giver": "Elder Saurian Sage",
+      "task": "Collect: 99 Breath Reed",
+      "chain": "11048",
+      "repeatable": "No",
+      "reward": "Exp: 350kGold: 2000Item: 99 Breath Reed"
+    },
+    {
+      "quest_#": "11048",
+      "quest_name": "Underwater Swamp Basics",
+      "lvl": "18",
+      "giver": "Elder Saurian Sage",
+      "task": "Kill: 10 Rabid Nutria, 8 Crimson Axolotl",
+      "chain": "11049",
+      "repeatable": "No",
+      "reward": "Exp: 370kGold: 2300"
+    },
+    {
+      "quest_#": "11049",
+      "quest_name": "Venture Forth",
+      "lvl": "18",
+      "giver": "Elder Saurian Sage",
+      "task": "Kill: 10 Red Swamp Crayfish, 1 Bull Shark",
+      "chain": "11058, 11050",
+      "repeatable": "No",
+      "reward": "Exp: 450kGold: 3000"
+    },
+    {
+      "quest_#": "11058",
+      "quest_name": "Making the rounds",
+      "lvl": "19",
+      "giver": "Ezzik Tailwind",
+      "task": "Kill: 10 Great Egret, 15 Payara",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "Exp: 400kGold: 2500"
+    },
+    {
+      "quest_#": "11067",
+      "quest_name": "Daddy's Little Fisher-girl",
+      "lvl": "19",
+      "giver": "Lilly Thessal",
+      "task": "Obtain: Letter from daddy",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "Exp: 400kGold: 2500"
+    },
+    {
+      "quest_#": "11063",
+      "quest_name": "Forging Onward",
+      "lvl": "20",
+      "giver": "Nivna Scalebound",
+      "task": "Kill: 10 Armored Shell Snapper, 10 Arapaima",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 1MilGold: 3800"
+    },
+    {
+      "quest_#": "11059",
+      "quest_name": "Slithers Gives Me the Shivers",
+      "lvl": "20",
+      "giver": "Byndr Ssaryx",
+      "task": "Kill: 10 Pit Viper, 10 Speckled Python",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 900kGold: 3800"
+    },
+    {
+      "quest_#": "11065",
+      "quest_name": "Hit the Lick, Hit it Back",
+      "lvl": "20",
+      "giver": "Draxen Tharros",
+      "task": "Kill: 20 Dart Frog",
+      "chain": "None",
+      "repeatable": "No",
+      "reward": "Exp: 900kGold: 4000"
+    },
+    {
+      "quest_#": "11062",
+      "quest_name": "Cutting a Path",
+      "lvl": "21",
+      "giver": "Kilya Razorfang",
+      "task": "Kill: 10 Savage Crocodile, 10 Spider Crab",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "11061",
+      "quest_name": "Salves of the Resolve",
+      "lvl": "21",
+      "giver": "Mipma Thessal",
+      "task": "Kill: 12 Anglerfish, 13 Swamp Bullfrog Collect: 20 Mixing Paste",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "????",
+      "quest_name": "?????",
+      "lvl": "22",
+      "giver": "Krexori Vossk",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "????",
+      "quest_name": "?????",
+      "lvl": "24",
+      "giver": "Threxian Axirra",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "Yes",
+      "reward": "???"
+    },
+    {
+      "quest_#": "11050",
+      "quest_name": "Much Needed Pest Control",
+      "lvl": "20",
+      "giver": "Jaxin Tharros",
+      "task": "Kill: 10 Diseased Capybara, 15 Platypus",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "Exp: 420kGold: 2500"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "20",
+      "giver": "Hyssar Thessal",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "21",
+      "giver": "Liska Scaleswirl",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "21",
+      "giver": "Rett Sharptail",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "21",
+      "giver": "Valyra Orrasa",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "????"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "21",
+      "giver": "Torgar Forgehand",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "21",
+      "giver": "Kyravara Hearthskalen",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "???",
+      "quest_name": "???",
+      "lvl": "22",
+      "giver": "Saritha Axir",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "No",
+      "reward": "???"
+    },
+    {
+      "quest_#": "????",
+      "quest_name": "?????",
+      "lvl": "24",
+      "giver": "Lexar Thesaurian",
+      "task": "???",
+      "chain": "???",
+      "repeatable": "Yes",
+      "reward": "???"
+    }
+  ]
+}
