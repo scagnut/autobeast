@@ -59,9 +59,6 @@ def parse_online_file(file_path):
                     if '(' in material and ')' in material:
                         item_name, quantity = material.split('(')
                         item_name = item_name.strip()
-                        # Skip "Violent Essence" and "Vigor Essence"
-                        if item_name in ["Violent Essence", "Vigor Essence"]:
-                            continue
                         quantity = int(quantity.replace(')', '').strip())
                         materials[item_name] = quantity
                 if materials:  # Only add recipes with valid materials
@@ -96,10 +93,16 @@ def crafting_report(tiers, recipes, inventory):
     for recipe_name, materials in recipes.items():
         max_count = float("inf")
         for item, required_amount in materials.items():
+            # Skip "Violent Essence" and "Vigor Essence" in calculations
+            if item in ["Violent Essence", "Vigor Essence"]:
+                continue
             available_amount = inventory.get(item, 0)
             max_count = min(max_count, available_amount // required_amount)
         if max_count > 0:
-            craftable_items[recipe_name] = max_count
+            craftable_items[recipe_name] = {
+                "quantity": max_count,
+                "recipe": materials  # Full recipe, including "Violent Essence" and "Vigor Essence"
+            }
     return craftable_items
 
 # Function to parse inventory
@@ -118,10 +121,18 @@ def parse_inventory(raw_inventory):
             inventory[item_name] = quantity
     return inventory
 
-# Function to run the crafting calculation
-def run_crafting(inventory_text, output_text):
+# Function to run the crafting calculation and update the GUI
+def run_crafting(inventory_text, output_text, recipe_text):
+    """
+    Runs the crafting calculation and updates the GUI with the crafting report and recipe details.
+
+    Args:
+        inventory_text (tk.Text): Text widget for the inventory input.
+        output_text (tk.Text): Text widget for the crafting report output.
+        recipe_text (tk.Text): Text widget for the recipe details output.
+    """
     # Parse inventory from user input
-    raw_inventory = inventory_text.get("1.0", tk.END)
+    raw_inventory = inventory_text.get("1.0", tk.END).strip()
     inventory = parse_inventory(raw_inventory)
 
     # Parse selected files and tiers
@@ -131,15 +142,37 @@ def run_crafting(inventory_text, output_text):
     # Generate crafting report
     report = crafting_report(tiers, filtered_recipes, inventory)
 
-    # Display report in the output text widget
+    # Clear the output text widgets
     output_text.config(state=tk.NORMAL)
     output_text.delete("1.0", tk.END)
+    recipe_text.config(state=tk.NORMAL)
+    recipe_text.delete("1.0", tk.END)
+
     if report:
-        for recipe, count in report.items():
-            output_text.insert(tk.END, f"{recipe}: Can craft {count}\n")
+        for recipe_name, details in report.items():
+            # Display the craftable item name and quantity
+            output_text.insert(tk.END, f"{recipe_name}: Can craft {details['quantity']} ")
+
+            # Add a "Show Recipe" button next to each item
+            def show_recipe(r_name=recipe_name, r_details=details['recipe']):
+                recipe_text.config(state=tk.NORMAL)
+                recipe_text.delete("1.0", tk.END)
+                recipe_text.insert(tk.END, f"Recipe for {r_name}:\n")
+                for material, qty in r_details.items():
+                    # Always show "Violent Essence" and "Vigor Essence" in the recipe
+                    recipe_text.insert(tk.END, f"- {material}: {qty}\n")
+                recipe_text.config(state=tk.DISABLED)
+
+            # Create a button and place it to the right of the text
+            button = tk.Button(output_text, text="Show Recipe", command=show_recipe, bg="#00FF00", fg="#000000")
+            output_text.window_create("end", window=button)
+            output_text.insert("end", "\n")
     else:
         output_text.insert(tk.END, "No craftable items found.\n")
+
+    # Disable editing for text widgets
     output_text.config(state=tk.DISABLED)
+    recipe_text.config(state=tk.DISABLED)
 
 # Function to toggle file selection
 def toggle_file_selection(file):
@@ -151,7 +184,12 @@ def toggle_tier_selection(tier):
 
 # Create the Crafting Tab
 def create_crafting_tab(parent):
-    """Creates the Crafting tab in the GUI."""
+    """
+    Creates the Crafting tab in the GUI.
+
+    Args:
+        parent (ttk.Notebook): Parent notebook to add the tab to.
+    """
     tab_crafting = ttk.Frame(parent, style="Dark.TFrame")
     parent.add(tab_crafting, text="🛠️ Crafting")
 
@@ -186,7 +224,7 @@ def create_crafting_tab(parent):
 
     # Run Button
     run_button = ttk.Button(top_frame, text="Run Crafting Calculation", style="Dark.TButton",
-                            command=lambda: run_crafting(inventory_text, output_text))
+                            command=lambda: run_crafting(inventory_text, output_text, recipe_text))
     run_button.grid(row=0, column=2, padx=10, pady=10, sticky="nsew")
 
     # Inventory Input
@@ -203,3 +241,11 @@ def create_crafting_tab(parent):
                           insertbackground="#00FF00")
     output_text.pack(fill="x")
     output_text.config(state=tk.DISABLED)
+
+    # Recipe Details Output
+    recipe_frame = ttk.LabelFrame(tab_crafting, text="Recipe Details", style="Dark.TLabel")
+    recipe_frame.pack(padx=10, pady=10, fill="x")
+    recipe_text = tk.Text(recipe_frame, height=10, bg="#000000", fg="#00FF00", font=("Lucida Console", 10),
+                          insertbackground="#00FF00")
+    recipe_text.pack(fill="x")
+    recipe_text.config(state=tk.DISABLED)

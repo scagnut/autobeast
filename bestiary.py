@@ -118,16 +118,14 @@ def search_monster(name, lvl_range, div, typ, search_results, map_button, exact_
 # --- Create Bestiary Tab ---
 def create_bestiary_tab(parent):
     """Creates the Bestiary tab in the GUI."""
-    tab_bestiary = ttk.Frame(parent, style="Dark.TFrame")
+    tab_bestiary = ttk.Frame(parent)
     parent.add(tab_bestiary, text="📖 Bestiary")
 
     mobs_data = load_mobs()
 
-    # Apply black and green theme with Lucida Console font
-    style = ttk.Style()
-    style.configure("Dark.TFrame", background="#000000")
-    style.configure("Dark.TLabel", background="#000000", foreground="#00FF00", font=("Lucida Console", 11))
-    style.configure("Dark.TButton", background="#00FF00", foreground="#000000", font=("Lucida Console", 10))
+    # Extract unique Types and Divinities from mobs_data
+    all_divinities = sorted({info.get("Divinity", "").strip() for info in mobs_data.values() if info.get("Divinity")})
+    all_types = sorted({info.get("Type", "").strip() for info in mobs_data.values() if info.get("Type")})
 
     # Create Main Frame
     main_frame = tk.Frame(tab_bestiary, bg="#000000")
@@ -147,11 +145,11 @@ def create_bestiary_tab(parent):
 
     tk.Label(form, text="Divinity:", font=("Lucida Console", 12), fg="#00FF00", bg="#000000").pack(anchor="w")
     div_var = tk.StringVar()
-    ttk.Combobox(form, textvariable=div_var, values=["", "Fire", "Water", "Night", "Earth", "Lightning", "Neutral"]).pack(fill="x", pady=(0, 5))
+    ttk.Combobox(form, textvariable=div_var, values=[""] + all_divinities).pack(fill="x", pady=(0, 5))
 
     tk.Label(form, text="Type:", font=("Lucida Console", 12), fg="#00FF00", bg="#000000").pack(anchor="w")
     type_var = tk.StringVar()
-    ttk.Combobox(form, textvariable=type_var, values=["", "Reptile", "Aquatic", "Elemental", "Animal", "Undead", "Humanoid"]).pack(fill="x", pady=(0, 5))
+    ttk.Combobox(form, textvariable=type_var, values=[""] + all_types).pack(fill="x", pady=(0, 5))
 
     # Create a row for "Prefer Exact Match" and "Show Map" inline
     inline_frame = tk.Frame(form, bg="#000000")
