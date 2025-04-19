@@ -33,7 +33,7 @@
         "Location": "Abandoned Camp",
         "Loot Drops": null
     },
-    "Madame Clucks a lot (MB)": {
+    "Madame Clucks a lot ": {
         "Level": "25",
         "Type": "Animal",
         "Divinity": "Fire",
@@ -113,7 +113,7 @@
         "Location": "Ancient Temple",
         "Loot Drops": null
     },
-    "Undead Commander (MB)": {
+    "Undead Commander ": {
         "Level": " ?",
         "Type": "Undead",
         "Divinity": " ?",
@@ -157,7 +157,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Bityrn.png"
     },
-    "Marauding Bear (MB)": {
+    "Marauding Bear ": {
         "Level": "13",
         "Type": "Animal",
         "Divinity": "Earth",
@@ -336,7 +336,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
-    "Forest Witch (MB)": {
+    "Forest Witch ": {
         "Level": "12",
         "Type": "Human",
         "Divinity": "Lightning",
@@ -374,7 +374,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
-    "Head Foreman (MB)": {
+    "Head Foreman ": {
         "Level": "14",
         "Type": "Humanoid",
         "Divinity": "Fire",
@@ -432,7 +432,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
-    "Treant Elder (MB)": {
+    "Treant Elder ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -452,7 +452,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
-    "Wild Hunter (MB)": {
+    "Wild Hunter ": {
         "Level": "5",
         "Type": "Humanoid",
         "Divinity": "Earth",
@@ -471,7 +471,7 @@
         "Location": "Dougue Road",
         "Loot Drops": null
     },
-    "Archfiend (OAD)": {
+    "Archfiend ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -482,7 +482,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
-    "Astral Archer (MB)": {
+    "Astral Archer ": {
         "Level": " ?",
         "Type": " ?",
         "Divinity": " ?",
@@ -504,7 +504,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
-    "Chilled Elemental (B)": {
+    "Chilled Elemental ": {
         "Level": "25",
         "Type": "Elemental",
         "Divinity": "Water",
@@ -515,7 +515,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
-    "Gloom Elemental (B)": {
+    "Gloom Elemental ": {
         "Level": "25",
         "Type": "Elemental",
         "Divinity": "Night",
@@ -548,7 +548,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
-    "Organic Elemental (B)": {
+    "Organic Elemental ": {
         "Level": "25",
         "Type": "Elemental",
         "Divinity": "Earth",
@@ -559,7 +559,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
-    "Static Elemental (B)": {
+    "Static Elemental ": {
         "Level": "25",
         "Type": "Elemental",
         "Divinity": "Lightning",
@@ -570,7 +570,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dreadlands.png"
     },
-    "Sweltry Elemental (B)": {
+    "Sweltry Elemental ": {
         "Level": "25",
         "Type": "Elemental",
         "Divinity": "Fire",
@@ -669,7 +669,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
-    "Gold Hoarder (MB)": {
+    "Gold Hoarder ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -691,7 +691,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
-    "Orishinium Ore Deposit (MB)": {
+    "Orishinium Ore Deposit ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -702,7 +702,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Dwarven_Mines.png"
     },
-    "Queen Scorpion (MB)": {
+    "Queen Scorpion ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -762,7 +762,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Ancient Egg (OAD)": {
+    "Ancient Egg ": {
         "Level": "25",
         "Type": "Reptile",
         "Divinity": "Fire",
@@ -816,7 +816,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Bunyip (MB)": {
+    "Bunyip ": {
         "Level": "25",
         "Type": "Beast",
         "Divinity": "Earth",
@@ -825,7 +825,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Caretaker of the First Spawn (OAD)": {
+    "Caretaker of the First Spawn ": {
         "Level": "25",
         "Type": "Reptile",
         "Divinity": "Night",
@@ -861,7 +861,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Descendant of the First Spawn (OAD)": {
+    "Descendant of the First Spawn ": {
         "Level": "25",
         "Type": "Reptile",
         "Divinity": "Earth",
@@ -870,7 +870,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Disciple of the First Spawn (OAD)": {
+    "Disciple of the First Spawn ": {
         "Level": "25",
         "Type": "Reptile",
         "Divinity": "Water",
@@ -908,7 +908,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Mapinguari (MB)": {
+    "Mapinguari ": {
         "Level": "25",
         "Type": "Beast",
         "Divinity": "Night",
@@ -998,7 +998,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Sachamama (MB)": {
+    "Sachamama ": {
         "Level": "25",
         "Type": "Reptile",
         "Divinity": "Lightning",
@@ -1061,7 +1061,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Vodyanoy (MB)": {
+    "Vodyanoy ": {
         "Level": "25",
         "Type": "Demon",
         "Divinity": "Water",
@@ -1070,7 +1070,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ebonmurk.png"
     },
-    "Watcher of the First Spawn (OAD)": {
+    "Watcher of the First Spawn ": {
         "Level": "25",
         "Type": "Reptile",
         "Divinity": "Fire",
@@ -1146,7 +1146,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
-    "Josephine Speilent (MB)": {
+    "Josephine Speilent ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -1164,7 +1164,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
-    "Old Auntie Bettina (MB)": {
+    "Old Auntie Bettina ": {
         "Level": "12",
         "Type": "Undead",
         "Divinity": "Fire",
@@ -1191,7 +1191,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
-    "The Wizened Old Man (MB?)": {
+    "The Wizened Old Man ": {
         "Level": "10",
         "Type": "Undead",
         "Divinity": "Night",
@@ -1202,7 +1202,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
-    "Undertaker (B?)": {
+    "Undertaker ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -1222,7 +1222,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
-    "Wil-o-the-wisp": {
+    "Wil-o-The-Wisp": {
         "Level": "14",
         "Type": "Undead",
         "Divinity": "Lightning",
@@ -1231,7 +1231,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Forgotten_Cemetary.png"
     },
-    "General Thias Shailin (B)": {
+    "General Thias Shailin ": {
         "Level": "25",
         "Type": "",
         "Divinity": "",
@@ -1289,7 +1289,7 @@
         "Location": "Fort Ellison",
         "Loot Drops": null
     },
-    "Gnoll Treasurer (MB)": {
+    "Gnoll Treasurer ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Night",
@@ -1299,7 +1299,7 @@
             "Dragon's Helm Ellison Finery Gnoll Platinum Coin, Gnoll Coin"
         ]
     },
-    "Gnoll Wizard (MB)": {
+    "Gnoll Wizard ": {
         "Level": "25",
         "Type": "",
         "Divinity": " ?",
@@ -1309,7 +1309,7 @@
             "Dragon Wand Wishing Well Key"
         ]
     },
-    "Shadow (MB)": {
+    "Shadow ": {
         "Level": " ?",
         "Type": "",
         "Divinity": " ?",
@@ -1339,7 +1339,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
-    "Dark Druid (MB)": {
+    "Dark Druid ": {
         "Level": "12",
         "Type": "Humanoid",
         "Divinity": "Lightning",
@@ -1401,7 +1401,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Grotesque%20Garden.png"
     },
-    "Nyssa Nightfang (B)": {
+    "Nyssa Nightfang ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Night",
@@ -1450,7 +1450,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kakegi_Grove.png"
     },
-    "Luna (MB)": {
+    "Luna ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -1461,7 +1461,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kakegi_Grove.png"
     },
-    "Mendel (MB)": {
+    "Mendel ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -1501,7 +1501,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
-    "Divine Elemental (B)": {
+    "Divine Elemental ": {
         "Level": " ?",
         "Type": "Elemental",
         "Divinity": " ?",
@@ -1521,7 +1521,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
-    "Essence of the Deep (B)": {
+    "Essence of the Deep ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -1541,7 +1541,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
-    "Phantom Foreman (MB)": {
+    "Phantom Foreman ": {
         "Level": "22",
         "Type": "Greenskin",
         "Divinity": "Earth",
@@ -1570,7 +1570,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Karnath_Mines.png"
     },
-    "Amelia Sasoo (B)": {
+    "Amelia Sasoo ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Ice",
@@ -1581,7 +1581,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Archaic Sylvan (MB)": {
+    "Archaic Sylvan ": {
         "Level": "21",
         "Type": "Beast",
         "Divinity": "Neutral",
@@ -1601,7 +1601,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Captain Butcher (B)": {
+    "Captain Butcher ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Ice",
@@ -1621,7 +1621,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Elna Crowley (MB)": {
+    "Elna Crowley ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Earth",
@@ -1630,7 +1630,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Farmaris Morcan (B)": {
+    "Farmaris Morcan ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Ice",
@@ -1685,7 +1685,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Leviathan (MB)": {
+    "Leviathan ": {
         "Level": "25",
         "Type": " ???",
         "Divinity": " ???",
@@ -1694,7 +1694,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Lykai Allard (MB)": {
+    "Lykai Allard ": {
         "Level": "25",
         "Type": "Greenskin",
         "Divinity": "Night",
@@ -1747,7 +1747,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Phantom of Captain Butcher (B)": {
+    "Phantom of Captain Butcher ": {
         "Level": "25",
         "Type": "Undead",
         "Divinity": "Night",
@@ -1800,7 +1800,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Sentient Barnacle (MB)": {
+    "Sentient Barnacle ": {
         "Level": "25",
         "Type": "Beast",
         "Divinity": "Water",
@@ -1809,7 +1809,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Siren (MB)": {
+    "Siren ": {
         "Level": "25",
         "Type": "Aquatic",
         "Divinity": "Neutral",
@@ -1851,7 +1851,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Uberto Hargrove (B)": {
+    "Uberto Hargrove ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Lightning",
@@ -1862,7 +1862,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Kraken.png"
     },
-    "Ururk Kuredall (B)": {
+    "Ururk Kuredall ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Ice",
@@ -1893,7 +1893,7 @@
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ]
     },
-    "Foul (MB)": {
+    "Foul ": {
         "Level": "25",
         "Type": "Undead",
         "Divinity": "Evil",
@@ -1943,7 +1943,7 @@
             "Tentacles, Healing Water, Magical Water"
         ]
     },
-    "Gravedigger (MB)": {
+    "Gravedigger ": {
         "Level": "22",
         "Type": "Humanoid",
         "Divinity": "Neutral",
@@ -1961,7 +1961,7 @@
         "Location": "Kraken Isle",
         "Loot Drops": null
     },
-    "Ice Princess (MB)": {
+    "Ice Princess ": {
         "Level": "25",
         "Type": "Undead",
         "Divinity": "Evil",
@@ -1971,7 +1971,7 @@
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots Golden Lockbox"
         ]
     },
-    "Maiden (MB)": {
+    "Maiden ": {
         "Level": "25",
         "Type": "Undead",
         "Divinity": "Evil",
@@ -2021,7 +2021,7 @@
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ]
     },
-    "Sanguine (MB)": {
+    "Sanguine ": {
         "Level": "25",
         "Type": "Undead",
         "Divinity": "Evil",
@@ -2061,7 +2061,7 @@
             "Magical Water, Rum, Spectral Ooze, Island Silk Gloves, Island Silk Boots"
         ]
     },
-    "Corrupted Guard": {
+    "Corrupt Guard": {
         "Level": "18",
         "Type": "Humanoid",
         "Divinity": "Neutral",
@@ -2070,7 +2070,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Linwood.png"
     },
-    "Ringleader (B)": {
+    "Ringleader": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2147,7 +2147,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Mt.%20Athemos.png"
     },
-    "Bandit Emissary (MB)": {
+    "Bandit Emissary ": {
         "Level": "20",
         "Type": "Humanoid",
         "Divinity": "Earth",
@@ -2157,7 +2157,7 @@
             "Blackwood Longbow"
         ]
     },
-    "Bandit Leader (MB)": {
+    "Bandit Leader ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2222,7 +2222,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
-    "River Shark (MB)": {
+    "River Shark ": {
         "Level": "25",
         "Type": "Aquatic",
         "Divinity": "Water",
@@ -2253,7 +2253,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Northern%20Rock%20Plateau.png"
     },
-    "Spectral Lion (MB)": {
+    "Spectral Lion ": {
         "Level": "25",
         "Type": "Animal",
         "Divinity": "Lightning",
@@ -2348,7 +2348,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
-    "Raider Chief (B)": {
+    "Raider Chief ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2368,7 +2368,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Raider's%20Encampment.png"
     },
-    "Raider Pioneer (MB)": {
+    "Raider Pioneer ": {
         "Level": "22",
         "Type": "Humanoid",
         "Divinity": "Earth",
@@ -2446,7 +2446,7 @@
         "Location": "Raiders Vale",
         "Loot Drops": null
     },
-    "Ancient Minotaur (OAD)": {
+    "Ancient Minotaur )": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2457,7 +2457,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Arcane Director (OAD?)": {
+    "Arcane Director ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2468,7 +2468,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Arcane Foreman (OAD?)": {
+    "Arcane Foreman ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2479,7 +2479,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Arcane Slave (Blue)": {
+    "Arcane Slave ": {
         "Level": "24",
         "Type": "Humanoid",
         "Divinity": "Ice",
@@ -2490,7 +2490,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Arcane Slave (Green)": {
+    "Arcane Slave ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2501,7 +2501,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Arcane Slave (Purple)": {
+    "Arcane Slave ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2512,7 +2512,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Crazed Furnace Worker (MB)": {
+    "Crazed Furnace Worker ": {
         "Level": "25",
         "Type": "Humanoid",
         "Divinity": "Fire",
@@ -2543,7 +2543,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Mana Devil (OAD)": {
+    "Mana Devil ": {
         "Level": "25",
         "Type": "Demon",
         "Divinity": "Evil",
@@ -2563,7 +2563,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Refinery Controller (B)": {
+    "Refinery Controller ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2574,7 +2574,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Refinery Overseer (B)": {
+    "Refinery Overseer ": {
         "Level": "",
         "Type": "",
         "Divinity": "",
@@ -2605,7 +2605,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Nezkar Varsee (MB)": {
+    "Nezkar Varsee ": {
         "Level": "7",
         "Type": "Humanoid",
         "Divinity": "Lightning",
@@ -2676,7 +2676,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Ruined_Watchtower.png"
     },
-    "Fallen Colonel (MB)": {
+    "Fallen Colonel ": {
         "Level": "25",
         "Type": "Demon",
         "Divinity": "Water",
@@ -2815,7 +2815,7 @@
             "Pan's Flute Satyr Horn"
         ]
     },
-    "Abatu (MB)": {
+    "Abatu ": {
         "Level": "25",
         "Type": "Demon",
         "Divinity": "Evil",
@@ -2989,7 +2989,7 @@
             "Tome of Natos"
         ]
     },
-    "Cultist Recruiter (MB)": {
+    "Cultist Recruiter ": {
         "Level": "19",
         "Type": "Humanoid",
         "Divinity": "Ice",
@@ -2999,7 +2999,7 @@
             "Tainted Hat, Tainted Robes"
         ]
     },
-    "Fumbling Druid (B?)": {
+    "Fumbling Druid ": {
         "Level": "23",
         "Type": "Humanoid",
         "Divinity": "Earth",
@@ -3043,7 +3043,7 @@
         "Location": "Wasteland",
         "Loot Drops": null
     },
-    "Pack Leader (MB)": {
+    "Pack Leader ": {
         "Level": "17",
         "Type": "Animal",
         "Divinity": "Fire",
@@ -3053,7 +3053,7 @@
             "Wolf Pelt Vest"
         ]
     },
-    "Raider (MB)": {
+    "Raider ": {
         "Level": "18",
         "Type": "Humanoid",
         "Divinity": "Lightning",
@@ -3137,7 +3137,7 @@
         "Location": "Wasteland/Wiken Graveyard",
         "Loot Drops": null
     },
-    "Demon Zaez (MB)": {
+    "Demon Zaez ": {
         "Level": "20",
         "Type": "Demon",
         "Divinity": "Evil",
@@ -3178,7 +3178,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
-    "Mort Wraith (MB)": {
+    "Mort Wraith ": {
         "Level": "25",
         "Type": "Undead",
         "Divinity": "Night",
@@ -3222,7 +3222,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
-    "Thanatos (OaD)": {
+    "Thanatos ": {
         "Level": " ?",
         "Type": " ?",
         "Divinity": " ?",
@@ -3233,7 +3233,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Wiken%20Graveyard.jpg"
     },
-    "Void Imp (MB)": {
+    "Void Imp ": {
         "Level": "25",
         "Type": "Demon",
         "Divinity": "Fire",
