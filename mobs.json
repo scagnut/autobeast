@@ -336,7 +336,7 @@
         ],
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Canopia_Forest.png"
     },
-    "Forest Witch ": {
+    "Forest Witch": {
         "Level": "12",
         "Type": "Human",
         "Divinity": "Lightning",
