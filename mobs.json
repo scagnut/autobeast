@@ -2605,7 +2605,7 @@
         "Loot Drops": null,
         "Map": "https://raw.githubusercontent.com/scagnut/autobeast/main/images/Refinery.png"
     },
-    "Nezkar Varsee ": {
+    "Nezkar Varsee": {
         "Level": "7",
         "Type": "Humanoid",
         "Divinity": "Lightning",
